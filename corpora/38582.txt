@@ -1,0 +1,80 @@
+[這是一篇發表於 臺灣STS學會 2013 年年會 的學術論文。 自覺夠有趣， 所以稍稍加油添醋之後， 貼在泛科學及部落格上。 有點長。 算是 2010 年英文文章〈DRM and Other Forces Overriding the Three Laws of Robotics〉的更新版。 [English / française / español ] 也請見 簡報版； 請以方向鍵、 t、 f 等鍵播放； 完整操作方式請見 「貴哥的 sozi 簡報/心智圖」]
+摘要
+艾西摩夫在他的基地系列與機器人系列小說當中， 不斷地探討機器人面對三大法則時所做的 「心理掙扎」。 保護人類、 服從命令、 保護自己， 是小說中所有正電子頭腦所必須遵守的 「法律」。 在那個想像的未來世界當中， 就是因為在這樣的保證與前提之下， 人類才敢接受機器人控制他的家電、 照顧他的小孩、 接管他的太空船與維生設備。 艾西摩夫唯一沒料到的是後來的發展： 真實世界的機器人， 最後並不是由正電子腦， 而是由程式碼在操控。
+關心資訊科技議題的法學教授 Lessig 說： 「程式碼就是法律。」 程式碼所製定的法律， 不僅比警察執行得更徹底， 也比政府更令一般人不敢質疑： 哪些網站算是不良網站？ 哪些內容應該被封鎖？ 你的哪些個人資料必須被定期自動上傳到雲端？ 程式碼說了算； 不同公司的程式碼在用戶身上強加了不同的法律， 但都一樣令用戶全然無力抗拒。 不僅如此， 當你想知道這些法律的詳細規定時… 抱歉， 為保護程式碼智慧財產， 恕難奉告。
+於是， 我們已經被 「保護智慧財產權」 的程式碼 （也就是法律） 所包圍。 於是我們看見 『Windows 7 盜版警察』 演進到 『Windows 8 開機鑰匙不在你家』； 我們看見 ISP 的 「盜版自動六振出局」 機制以及 Youtube 的 ContentID 機制。 這些程式碼都是為了保護著作權而施加在消費者身上的法律。
+悄悄地， 智財保護法令被寫入逐漸正在成形的機器人的各個器官當中 — 當機器人不具機器人外型， 只有發聲或是心律調整單一功能的時候， 人類就忘記他正在跟機器人的器官的雛型打交道。 如果有一天你突然發現你口袋裡這個聲音甜美、 對天文地理以及你的隱私無所不知的秘書， 其實已經演化成一個替你打點所有生活瑣事的機器人， 但她所恪遵的法律卻不是三大法則而是智慧財產權， 或是雲端那頭的程式設計師的長官所決定的任何 「法律」 的時候， 那會發生什麼事？ Siri， 你可以告訴我答案嗎？
+一、 機器人三大法則
+電影 〈機械公敵〉 （I， Robot）、〈變人〉（Bicentennial Man） 的原著小說作者， 也是廿世紀科幻小說泰斗艾西摩夫 （Issac Asimov） 在他的機器人系列科幻小說當中， 探討人類與機器人共存的世界。 如果機器人的智能與體力將遠遠超越它的創造者， 那麼它的創造者怎敢將自己的身家性命一切交到機器人的手中？ 在艾西摩夫的小說裡， 所有的機器人都必須遵守三大法則 （Three Laws of Robotics） [1]：
+機器人不得傷害人類，或袖手旁觀坐視人類受到傷害；
+在不違背第一法則的前提下，機器人必須服從人類的命令；
+在不違背第一及第二法則的前提下，機器人必須保護自己。
+在小說裡， 這三個法則內建於機器人的正電子腦當中， 當機器人的其他任務與這三條法則衝突， 或是機器人面臨其中兩條法則互相衝突的情境時， 它必須依序選擇不傷害人類、 服從命令、 保護自己的行動， 要不然它的正電子腦就會燒壞 （例如一個人命令它說謊而遭致另一個人受傷害時）。
+艾西摩夫的小說並不只是炫耀科幻場景。 這三大法則之於一個大量使用機器人的社會， 就像保險絲之於電路、 安全座椅之於雲霄飛車一樣， 是一個必備的保護措施。 它保護的是整個社會的安全 — 避免電影〈鼠膽妙算〉裡面的家電大軍或是駭客任務裡面的機器叛變之類的場景。 但它顧慮的問題卻不像後二者那麼具體， 所以雲霄飛車座椅的安全設施如果出了問題， 一般人會立即有反應； 但在一個大量使用機器人卻欠缺這三大法則的社會裡， 一般人卻不太會注意到問題的嚴重性。
+時至今日， 艾西摩夫的遠見還是令人驚嘆。 他沒有料想到的一個重要小細節是： 後來機器人的大腦， 並不是在機器人研究室裡面開發出來的 — 如果是那樣的話， 也許會有更多人記得他的提醒， 試著把三大法則燒進機器人的正電子腦裡面去。 在真實的世界裡， 機器人的大腦， 出自程式設計師的鍵盤； 而多數的程式設計師在設計程式碼 （coding） 時， 甚至可能不知道有一天他的作品會進入機器人的大腦當中， 更不會去思考三大法則。
+二、 程式碼就是法律
+關心資訊科技議題的法學教授 Lessig 說： 「程式碼就是法律。」 （"Code is law."） [2] 程式碼所製定的法律， 不僅比檢警司法系統執行得更徹底、 更沒有轉寰空間， 也比政府更令一般人不敢質疑： 誰規定表格填錯一欄就一定要整頁重填？ 誰規定公務員必須使用微軟的 IE 瀏覽器處理公文？ 誰規定民眾想用自然人憑證跟政府打交道就一定得用微軟的 ActiveX？ 因為這些法令是程式碼而不是立法院或行政院所制定的， 所以絕少人質疑。 當你懷疑自己是程式誤判的受害者， 甚至就算很多專家已經明白指出這是技術上不符合國際規範、 法律上具有圖利廠商嫌疑的小動作， 也經常沒有申訴的管道， 或是申訴之後還是沒有下文。
+更進一步， 很多時候你甚至不知道這些 「程式碼所規定的法律」 的明確管制範圍。 中國政府封鎖特定關鍵詞及網站， 這是眾所周知的事； 但是到底有哪些詞彙是禁忌呢？ Google 從 2012 年中開始， 協助用戶檢查搜尋關鍵詞， 如果發現可能列在敏感封鎖詞彙當中， 至少可以提醒用戶 google 對某些搜尋查詢愛莫能助。 [3] 後來 google 默默取消這項功能， 據推測可能是因為中國政府改變防火長城的程式碼， 讓找麻煩的 google 變得更難用， 所以 google 因而讓步， 停止協助網民對抗政府網路控管； 而中國網民再度回到 「到底是哪個關鍵詞觸犯了法律， 害我被斷線幾分鐘」 的卡夫卡世界。 [4]
+政府透過法律掌控公民的生活， 在許多集權國家都在發生， 大眾也比較看得見； 但軟體用戶的生活受到私人企業程式碼的監控， 就比較少人注意了。 奇虎公司的兩大產品， 在中國受到高度歡迎 — 360 安全瀏覽器的市佔率有 8%； 360 安全衛士在手機資安市場上的市佔率更高達三成。 然而網友 「獨立調查員」 發現： 360 安全瀏覽器以隱匿行蹤的方式 （包含 「將執行檔偽裝成設定檔）， 每五分鐘向特定網站請求下載最新指令， 事後並銷毀證據。 [5] 後來互聯網情報威懾防禦實驗室根據獨立調查員所公開的技術資訊更進一步測試， 發現它所下載的最新指令可能包含 「應用程序行為攔截/隱藏、 創建線程、 刪除文件、 進程及進程模塊檢索、 操作註冊表及創建鉤子」 等等功能。 [6] 簡言之， 安裝了 360 安全瀏覽器， 就像是邀請奇虎公司派員進駐你的電腦一樣， 監控你在電腦上的某些活動， 例如禁止使用競爭對手的產品。
+有人或許會認為： 這是中國的特殊現象； 在西方民主國家， 這類入侵用戶電腦的行為， 正是保護人民的法律應該禁止的， 怎麼可以把它歸類為 「公司制定來規範用戶行為的法律」 呢？ 事實上， 市佔率比 360 安全瀏覽器更高、 涵蓋國家比奇虎更多的微軟產品， 做的事情非常類似， 但卻從來不見任何國家 — 不論是集權或民主國家 — 針對其侵犯用戶自主權一事對微軟進行法律追究。 從秘密回報的 「WGA phone home」 事件、 秘密強迫升級的 「Windows stealth update」 事件、 「Vista content protection cost」 分析、 到 「Windows 7 盜版警察」 事件， 微軟視窗作業系統秘密下載的軟體量或許不及奇虎 360 安全瀏覽器， 但其歷史之長與影響範圍之大， 卻遠遠超過 360 安全瀏覽器。 （以上參考資料眾多， 請以關鍵詞搜尋。） 2011 年起， 獲得微軟 「Windows 8 認證」 的「安全開機」平板電腦禁止用戶以其他未經認證的作業系統開機， 則更說明了一件事： 微軟的程式碼所制定的法律， 不僅即將管制約束絕大多數人， 而且拒絕接受管制者， 甚至可能將面臨買不到新電腦的窘境。 [7] （有趣的是： 奇虎 360 產品跟微軟 Windows 8 認證， 都以 「安全」 之名， 行 「限制與監視」 之實。 [8]）
+為了安全因素， 法律禁止未滿十八歲的青少年開車； 不過如果父母帶著未成年子女在沒有人的地方練車… 第一， 可能沒有人知道， 第二， 就算警察鄰居知道了， 也未必會舉發。 為了保障微軟的壟斷， 獲得微軟 Windows 8 認證的平板電腦禁止其他作業系統開機 — 即使用戶明明知道自己所採用的作業系統完全安全無虞也不行。 沒有如果， 沒有例外， 沒有未必。 程式碼顯然是比法律更嚴格徹底執行的電腦法律。
+三、 智慧財產權
+或許有人會說： 「你可以不需要服從微軟的法律呀！ 自己開工廠生產不經微軟 Windows 8 認證的電腦就好了啊， 畢竟這是資本主義自由競爭的社會嘛！」 事實上這個問題正好曝露了資本主義無限上綱者的另一個盲點： 如果資本主義終將造成有能力壟斷市場的跨國軟體公司透過軟體連線隨時操縱人類的生活， 終將造成機器人統治世界， 那麼我們還是堅持這世界上沒有比資本主義更重要的東西 — 例如機器人三大定律 — 嗎？
+不過本文要從另一個角度回答上述的問題。 「有道者不察所召， 而察其召之者。」 在微軟一系列入侵用戶電腦動作的底下， 所燃燒的其實是智慧財產保衛聖戰的火源。 微軟所謂的 「安全開機」 — 如果暫時 （諷刺地） 放下資本主義的基本假設、 暫時排除微軟其他自私目的的可能性的話 — 其實是指： 用戶不得任意執行自行開發或網路下載的應用軟體， 這樣著作權人的智慧財產權才能夠透過數位權利管理 （Digital Rights Management） 機制得到保障。
+「保衛智慧財產權」 甚至將它擴大解釋到凌駕於實體財產權之上， 是近年來美國政府全力推動、 多面向具有深遠影響的重要政策。 [9] [10] 其中的禁止線上盜版法案 （Stop Online Piracy Act） 更因侵犯人權與蔑視技術現實而引發全球網友及各大網站抗議。 SOPA 推動者亟欲賦予 「封鎖網站」 正當性， 而它所採取的 「沒收網域」 （domain seizure） 方式， 在技術上卻遠不及中國金盾工程成熟有效， 只是單純地阻止 DNS 翻譯文字網址。 也就是說， 只要你知道一個被封鎖網站的數字網址， 其實這招是完全無效的。 Blockaid 以及 Dot-P2P 都是破解之道。
+MPAA 與 RIAA 等等利益團體於是跨過美國政府， 直接施壓 Internet Service Provider （ISP）， 迫使他們在今年二月底開始落實 Copyright Alert System （CAS）， 從協助用戶上網的廠商角色， 轉變為監督用戶的盜版警察角色。 [11] ISP 透過程式碼偵測用戶用 P2P 所下載的檔案是否侵權。 若然， 便以各種方式提出警告。 五次或六次之後， 將降低用戶連線速度或封鎖某些網站作為懲處。 [12] 先前美國的 MegaUpload 抄臺事件 [13] 以及臺灣的 Now.in 抄臺事件 [14] 都因為檢警逾越法律權限、 未審先定罪、 第三方入罪等等因素而引發高度爭議； 相較之下， 省略文字版的法律， 改以程式碼版的法律來偵測、 直接懲罰盜版者， 看來變成了保護著作權最便利， 又不太引起大眾質疑的方式。
+四、 程式碼被賦予法律效力的趨勢與問題
+「程式碼就是法律」 已經是日常生活的現實； 但它是否具有傳統的法律效力呢？
+在歐洲， 有判例顯示市售軟體的 End-user License Agreement （EULA） 並不具法律效力。 [15] 但在美國， 類似的案件卻被判定 EULA 確實具有法律效力。 [16] 各地法院判決莫衷一是； [17] 但可以確定的是： 網路上詢問 EULA 法律效力者眾， 但沒有人能給明確的答案， 而這也強化了 EULA 的實質效力。
+合法採購的軟硬體商品， 將之拆解研究， 進行逆向工程 （reverse engineering） 是否合法？ 爭議不斷的美國數位千禧年著作權法案 （Digital Millennium Copyright Act） — 特別是其中的反規避條款 （anti-circumvention provisions） — 以及 SOPA/ACTA/TPP 等等秘約條文外洩顯示： 智慧財產權已凌駕於實體財產權之上， 逐漸讓拆解自己財產的逆向工程研究成為非法行為。 [18] [10]
+日前美國國會圖書館依據 DMCA 認定用戶依法不得解鎖手機 — 例如自行將手機所搭配的原電信業者更換掉。 這引起群眾抗議， 齊至白宮網站聯署。 白宮的回應認同聯署內容， 而國會圖書館也將重新檢視這個具有協助壟斷疑慮的規定。 [19]
+這些趨勢顯示： 如果沒有輿論的反抗， 程式碼對用戶的約束力將越來越強， 甚至取得文字版法律所賦予的絕對正當性。
+在此同時， 執行智慧財產保護的程式碼就像其他任何程式碼一樣， 從輸入資料到程式邏輯， 每個環節都還是有可能出錯。 如果它所犯的錯誤明顯可見 — 例如 NASA 火星探測船好奇號的影片被當成是盜版影片而遭 Youtube ContentID 機制封鎖 — 那麼至少大眾還有機會反應、 要求更正。 [20]。 但如果是不明顯或甚至完全無警示的資訊封鎖， 那就只能靠細心的觀察者或靠運氣才能偶爾會發現一些奇特的誤判了 — 例如微軟將自由軟體基金會的捐款網頁判定成賭博網站、 將 BBC、 CNN、 華盛頓郵報、 維基百科、 … 等等網站判定成盜版 Windows 8 的網站、 將某些 （提及特定不知名、 合法網站的） Hotmail 郵件默默刪除等等。 [21] [22] [23]
+五、 機器人就在你身邊 — 或在你身體裡面
+如果機器人從一開始就具有人形， 或許大眾的警覺會高一些； 但在真實的科技發展過程當中， 機器人的各個組成部位， 以不同的形式在我們身邊 — 或在我們身體裡面 — 逐步發展， 以致絕少人察覺它已經與我們的生活 — 或是我們的身體 — 漸漸融合。
+無法發聲講話的三歲小女孩 Maya 靠著 iPad 上的一個小 app 「Speak for Yourself」 跟父母及外界溝通。 但是溝通輔具大廠 Semantic Compaction Systems 跟 Prentke Romich Company 指控 SfY 侵犯專利， 要求蘋果電腦將之下架。 在沒有法院判決的情況下， 蘋果電腦照辦。 還好蘋果電腦做得並不徹底 — 至少沒有遠端遙控將已安裝的 SfY 刪除掉。 [24]
+Gnome Foundation 執行長 Karen Sandler 同時具有律師及心臟病患兩個角色。 她身體裡面安裝著一顆心律調整器 （pacemaker）。 這個心律調整器會以 wifi 與外界溝通， 病患在走進看診室的同時， 不必接任何儀器， 她的心跳等等資料就可以直接顯示在醫師的電腦上。 但這個功能並非只有在看診時才打開。 她的個人隱私資訊隨時在對外界播放； 而外界也可透過 wifi 對心律調整器下指令， 電擊她的心臟。 因為智慧財產權的關係， 她無法取得程式碼， 更不可能按照自己的需求改變心律調整器的運作方式。 [25]
+如果我們面對的機器人是肌肉結實、 表情猙獰的魔鬼終結者， 那麼也許會有更多人理解艾西摩夫機器人三大法則的重要性。 如果我們面對的是具象、 非自身所擁有的無人小飛機 （drone）， 那麼至少我們會警覺思考是否要用一般法律規範它。 但如果我們面對的是自己家中的 Kinect 遊戲機， 我們便對它失去戒心 — 即使當我們知道它服務的對象是數位內容版權擁有者 （根據收看人數提高收費標準）， 有很多人也很能夠接受智慧財產權重於消費者權益與隱私的說辭。 [26] 至於跟我們形影不離的手機呢？ 這已經不是接不接受的問題。 Siri 是解決我們一切疑問的秘書， 即使明明知道我們跟她的一切對話都將傳回蘋果電腦的雲端分析/儲存/加值利用， 我們還是不能沒有她 — 除非你在 IBM 工作， 公司規定不准用。 [27]
+六、 結語
+隨著 google glass、 仿生義肢、 腦機介面、 … 等等技術的開發， 到最後我們跟機器人的最親密接觸， 可能不僅僅是它在身邊照護我們的生活起居， 而是它就住在我們的身體裡面。 唯一的問題是： 在肉體上， 它與我們的親密更勝過肌膚之親； 但在精神上， 數位內容版權擁有者的指令與需求才是它服從的最後依歸。 試想幾年後， 如果：
+手機像心律調整器一樣已經植入人體 — 反正人類離不開它；
+手機隨時與 ISP 連線 — 因為隨時需要連上臉書、 需要詢問 siri 的意見；
+ISP 成為智慧財產保護警察 — 因為主流智財教育只轉播利益團體的聲音；
+就像 hotmail 默默地過濾「不當」網站一樣， 這些警察也默默地根據不為外人知曉的法律 （看不見的程式碼） 在替電腦公司執法…
+或者， 想像八十年後衰老的你靠著植入體內的維生系統 — 其實就是一個小小機器人 — 過著正常的生活； 但經過一次軟體升級之後， 你開始感到不舒服。 原廠 X 堅持一切正常沒問題。 於是你請另一家 Y 公司的工程師來檢查這個住在你體內、 原始碼不給看的機器人。 當 Y 公司的工程師試圖要解讀機器人的新運作規則時， 它為了保護自身的智慧財產權免遭競爭對手偷窺， 於是自我毀滅 — 同時違背第一、 第二、 第三法則。
+是的， 程式碼一直都是法律 — 是真實世界的機器人， 或未來機器人的某個器官時時刻刻所服膺謹從的法律。 但當我們的世界被智慧財產權法律所包圍的時候， 要讓大眾理解智慧財產權必然危害人權都是一件高度困難的事 [28]， 更難想像能有多少消費大眾會體認： 這些不具威脅外表的熱門作業系統、 熱門文書軟體、 精美手機、 嵌入體內的生物電子儀器 （bioelectronics）、 … 在不久的將來， 其實終將演變/匯流/組合， 成為遠端的超級機器人用以 「半接管」 我們神經系統的遙控內嵌觸手。 到那個時候， 機器人所有行動的最高指導原則會不會是 （如果沒有被拿來做更糟的應用的話…） 智財保護相關法律呢？ 又還有多少人類會記得艾西摩夫當初為了保護未來人類所設計的機器人三大法則呢？
+The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. — Issac Asimov
+（現在最遺憾的是： 科學知識進步的速度遠遠超過社會智慧提升的速度。）
+參考資料
+維基百科。 機器人學三大法則。
+Lessig， Lawrence （2005）. Code V2. Retrieved from http://codev2.cc/
+Fallow， James （2012）. The Words That Scare America— and China. Retrieved from http://www.theatlantic.com/international/archive/2012/06/the-words-that-scare-america-and-china/258017/
+Lomas， Natasha （2013）. Google Quietly Removes Censorship Warning Feature For Search Users In China. Retrieved from http://techcrunch.com/2013/01/04/google-quietly-removes-censorship-warning-feature-for-search-users-in-china/
+独立调查员 （2012）。 公开举报奇虎360公司——致工信部、公安部公开信。 取自 http://i.sohu.com/p/=v2=bcdsBXalk3VpmZc3ZXZlLmNvbQ==/blog/view/243590884.htm
+IDF实验室 （2012）。 IDF报告全文：360安全浏览器暗藏后门。 取自 http://www.sinabz.com/html/news/xfwq/2012/1127/51871.html
+洪朝貴 （2011）。 平板電腦支援 Windows 8， 作業系統開機鑰匙不在你家 （以及 「信任運算」 的真諦）。
+洪朝貴 （2012）。 微軟更新中英文詞語的意義： 「棄權」 就是 「安全」。 取自 http：//ckhung0.blogspot.tw/2012/04/microsoft-security.html。
+洪朝貴 （2009）。 否定實體財產權的 DMCA： 反規避/反仿冒/反競爭條款將從 DRM 走向 PRM。
+Ernesto （2013）. “Six Strikes” Anti-Piracy Scheme Starts， With Mystery Punishments.
+Masnick， Mike （2013）. System Used By New Six Strikes CAS， Falsely Identifies Game Mods As NBC TV Shows. Retrieved from http：//www.techdirt.com/articles/20130224/22341022086/system-used-new-six-strikes-cas-falsely-identifies-game-mods-as-nbc-tv-shows.shtml
+（Various）. Megaupload Stories at Techdirt. Retrieved from http：//www.techdirt.com/blog/？company=megaupload
+洪朝貴 （2012）。 Now.in 遭檢抄臺， 為了保護強權智財。 濫傷無辜？ 你活該！。 取自 http：//ckhung0.blogspot.tw/2012/03/nowin.html。
+Sterling， Jim （2012）. EU court rejects EULAs， says digital games can be resold. Retrieved from http：//www.destructoid.com/eu-court-rejects-eulas-says-digital-games-can-be-resold-230641.phtml
+Anderson， Nate （2010）. No， you don’t own it： Court upholds EULAs， threatens digital resale. Retrieved from http：//arstechnica.com/tech-policy/2010/09/the-end-of-used-major-ruling-upholds-tough-software-licenses/
+Wikipedia. End-user license agreement. Retrieved from https：//en.wikipedia.org/wiki/End-user_license_agreement#Enforceability_of_EULAs_in_the_United_States
+Electronic Frontier Foundation. Coders’ Rights Project Reverse Engineering FAQ. Retrieved from https：//www.eff.org/issues/coders/reverse-engineering-faq
+洪朝貴 （2013）。 美國消費者的手機解鎖權保衛戰。 取自 http：//ckhung0.blogspot.tw/2013/03/phone-unlocking.html
+Lee， Timothy B. （2012）. As Curiosity touches down on Mars， video is taken down from YouTube. Retrieved from http：//arstechnica.com/tech-policy/2012/08/as-curiosity-touches-down-on-mars-video-is-taken-down-from-youtube/
+Sullivan， John. （2012）. Dear Microsoft： fsf.org is not a “gambling site". Retrieved from https：//www.fsf.org/blogs/community/dear-microsoft-fsf.org-is-not-a-gambling-site
+Ernesto （2012）. Microsoft DMCA Notice ‘Mistakenly’ Targets BBC， Techcrunch， Wikipedia and U.S. Govt. Retrieved from https：//torrentfreak.com/microsofts-bogus-dmca-notices-censor-bbc-cnn-wikipedia-spotify-and-more-121007/
+洪朝貴 （2012）。 Hotmail 與 Yahoo！ Mail 收不到信件， 這跟美國政府濫權沒收網域名稱有沒有關係？
+Nieder， Dana （2012）. The Silencing of Maya. Retrieved from http：//niederfamily.blogspot.tw/2012/06/silencing-of-maya.html
+Gonyer， Emily （2012）. Karen Sandler’s Keynote address to Linux Australia conference. Retrieved from https：//todoentiempo.wordpress.com/2012/01/26/karen-sandlers-keynote-address-to-linux-australia-conference/
+Hruska， Joel （2012）. Microsoft’s new Kinect patent goes Big Brother， will spy on you for the MPAA. Retrieved from http：//www.extremetech.com/gaming/139706-microsofts-new-kinect-patent-goes-big-brother-will-spy-on-you-for-the-mpaa
+McMillan， Robert （2012）. IBM Outlaws Siri， Worried She Has Loose Lips. Retrieved from http：//www.wired.com/wiredenterprise/2012/05/ibm-bans-siri/
+洪朝貴 （2012）。 網路時代， 「著作權」 跟 「人權」 只能二選一。 取自 http：//ckhung0.blogspot.com/2012/03/ip-vs-human-right.html。
+(本文轉載自 資訊人權貴ㄓ疑)
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

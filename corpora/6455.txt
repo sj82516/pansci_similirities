@@ -1,0 +1,330 @@
+在科學中，很多簡單的事物會變得很複雜，例如咖啡。你可能會注意到濺灑出來的一滴咖啡，乾涸後並不會變成褐色斑點，而是邊緣有深色外環清晰的漬跡。要靠咖啡才能開始一天工作的人，桌面、文件、杯墊甚至衣服，都免不了常常擦拭的痕跡，那個漬跡的研究，歷史可溯及1997年《Nature》上的一篇論文。更早可能就要問土耳其咖啡占卜師，看到隔夜的杯底咖啡渣時，是否也想過這個問題了。
+粒子的形狀
+物理學家企圖找出為何會這樣已經超過十年以上。這個技術上稱為「咖啡漬圈環效應」（coffee ring effect）的現象，早先認為這是因為裡外不同的蒸發率造成的毛細滲流。但他們現在認為他們有了新的答案。
+破解這個問題的科學家，一開始並不是研究咖啡環的，賓州大學的Peter Yunker和他的同事研究當液體蒸發時，不同形狀的粒子如何聚集—如球形、卵形或甚至是細長形的粒子。
+因此首先他們觀察到含有球形粒子的液體蒸發時，會形成如咖啡造成的漬圈環。「但是當我們蒸發帶著細長粒子的水滴時，不會形成漬圈環，反而擴散到水滴覆蓋的整個區域。」Yunker猜想，或許正是粒子的形狀造成咖啡漬圈環的效應。咖啡的確有粒子在內，但是Yunker並不知道他們是球狀與否。所以他做了任何好的科學家會做的事情。
+他說：「我們下樓找了台咖啡機，投了35分買了杯咖啡，然後上樓把咖啡放在顯微鏡底下看一看，然後，至少在顯微鏡底下的分子看起來是球形的。」
+水滴變形
+對於大部分人來說，這可能已經足夠說明了一切，但是Yunker想要看他是否可以更精確地控制條件下的效果，如粒子的尺寸和確實的形狀。所以他決定讓粒子更輕易地控制。
+他說：「我們使用的粒子是由聚苯乙烯製成，所以只是塑料粒子。」當他讓一滴帶著圓形粒子的液體揮發時，形成了一個漬環。當他用細長形的粒子時，卻看不到漬環。為什麼形狀會造成差別呢？
+「當細長形的粒子抵達水滴表面時，改變了表面的形狀。」Yunker這樣說。水滴表面的變形，似乎是關鍵。當球形粒子抵達水滴表面時，其外形並不會造成相同的變形。
+少了變形，粒子抵達水滴的邊緣時，造成了一個漬環。橢圓形的粒子造成的變形，就不會有漬環。
+Accessibility links
+Skip to main content
+Keyboard shortcuts for audio player
+Toggle initial options for NPR audio player
+View Navigation
+NPR
+NPR
+NPR Music
+NPR Books
+NPR About
+NPRPodcast Directory
+Search Toggle search
+NPR Home
+KQED
+News
+Arts & Life
+Music
+Topics
+Programs & Podcasts
+NPR Music
+Genres
+New Music
+Concerts & Videos
+Articles & Lists
+Tiny Desk
+NPR Books
+Author Interviews
+Find Books
+Reviews
+About NPR
+Overview
+Connect
+Support
+Press
+Careers
+Podcast Directory
+Categories
+KQED podcasts
+donate now
+NPR Shop
+My Account
+Back
+News
+U.S.
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+Arts & Life
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+Music
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+More
+Our Blogs
+Corrections
+All About NPR
+Back
+News & Conversations
+Morning Edition
+All Things Considered
+Fresh Air
+Here & Now
+1A
+Code Switch
+Embedded
+It's Been a Minute with Sam Sanders
+Latino USA
+NPR Politics Podcast
+On Point
+Rough Translation
+Up First
+Weekend Edition Saturday
+Weekend Edition Sunday
+What's Good with Stretch & Bobbito
+Youth Radio
+Storytelling & Humor
+Ask Me Another
+The Best Of Car Talk
+The Big Listen
+Bullseye
+Hidden Brain
+How I Built This
+Invisibilia
+Live from the Poundstone Institute
+Only A Game
+Planet Money
+Pop Culture Happy Hour
+Radio Ambulante
+StoryCorps
+TED Radio Hour
+Wait Wait...Don't Tell Me!
+Wow in the World
+Music
+First Listen
+All Songs Considered
+Songs We Love
+Tiny Desk
+Alt.Latino
+From The Top
+Jazz Night In America
+Metropolis
+Mountain Stage
+Piano Jazz
+The Thistle & Shamrock
+World Cafe
+More
+All Programs
+Podcast Directory
+NPR Podcasts
+Back
+Rock
+Pop
+Jazz
+Classical
+Hip-Hop
+R&B/Soul
+Folk
+Latin
+World
+Electronic/Dance
+Back
+First Listen
+Songs We Love
+All Songs Considered
+Reviews
+Music Videos
+Back
+Tiny Desk
+Live Concerts
+Field Recordings
+Studio Sessions
+Music Documentaries
+Music Videos
+Festival Recordings
+Back
+Articles
+Interviews
+Quizzes
+Music Lists
+Best Music of the Year
+Back
+Art & Design
+Arts & Entertainment
+Biography & Memoir
+Business & Economy
+Children's Books
+Comedy
+Comics & Graphic Novels
+Digital Culture
+Faith & Spirituality
+Food & Wine
+History & Society
+Historical Fiction
+Horror & Supernatural
+Literary Fiction
+Mystery & Thrillers
+Parenting & Families
+Poetry
+Politics & Public Affairs
+Romance
+Science Fiction & Fantasy
+Science & Health
+Sports
+Travel
+Young Adult
+Nonfiction
+Fiction
+Back
+Book Reviews
+This Week's Must Read
+My Guilty Pleasure
+Three Books...
+PG-13: Risky Reads
+You Must Read This
+Summer Books
+Best Books of the Year
+Back
+Overview
+Overview and History
+Mission and Vision
+Stations and Public Media
+NPR Finances
+People
+Ethics
+Awards
+Back
+Visit NPR
+NPR Presents
+Studio 1 Events
+Generation Listen
+Book a Speaker
+Request Permissions
+Ways to Listen
+NPR Extra Blog
+Email Newsletters
+Shop NPR
+Get Help
+Contact Us
+Back
+Support Public Radio
+Corporate Sponsorship
+Volunteer
+Back
+Releases and Statements
+Photos and Logos
+Fact Sheet (PDF)
+Media Relations Contacts
+Back
+Careers at NPR
+Search Jobs
+Culture
+Applying
+Interns
+Fellows
+Digital
+Back
+Arts
+Business
+Comedy
+Education
+Games & Hobbies
+Government & Organizations
+Health
+Kids & Family
+Music
+News & Politics
+Religion & Spirituality
+Science & Medicine
+Society & Culture
+Sports & Recreation
+Technology
+TV & Film
+KQED
+NPR Shop
+donate now
+Page Not Found
+We can't seem to find the page you were looking for.
+search to find your page
+report this page as missing
+browse the homepage
+It's a shame that your page is lost, but at least it's in good company; stick around to browse through NPR stories about lost people, places and things that still haven't turned up.
+Amelia Earhart
+Researchers are still trying to figure out what happened to aviator Amelia Earhart, who disappeared while flying over the South Pacific in 1937
+18 1/2 Minutes of Watergate Tapes
+Rose Mary Woods, the loyal secretary of President Richard Nixon, took responsibility for erasing tape that was crucial to the Watergate investigation.
+Jimmy Hoffa
+Prosecutors in Michigan say authorities are calling off their latest search for the remains of Jimmy Hoffa, the long-missing former Teamsters boss.
+Your Luggage
+Travelling without luggage can be a major inconvenience, but for commentator Bill Harley, it turned out to be a blessing in disguise.
+The Lost City of Atlantis
+Slate senior editor Andy Bowers explains the myths surrounding the lost city of Atlantis, a metropolis mentioned in ancient texts.
+Waldo
+Artist Melanie Coles has plastered a 2,300-square-foot Waldo on a roof in Vancouver. Now she's waiting for Google Earth satellites to pick him up.
+Homepage
+News
+U.S.
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+Arts & Life
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+Music
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+Programs
+About
+NPR Overview
+NPR Finances
+People at NPR
+Support NPR
+Visit NPR
+Press Room
+NPR Extra Blog
+Careers at NPR
+Corrections
+NPR Ombudsman
+Permissions
+© 2017 npr
+Help
+Contact
+Terms of Use
+Privacy
+Sponsorship Choices
+Text Only
+從咖啡到印表機
+Arjun Yodh，本論文的共同作者，也是賓州大學物質研究實驗室的主持人說：「某程度上來說，帶著好奇有趣的心情，但實際上，還有很多關於『為何會這樣？』的有趣物理學。」同時這個研究，有很多實際的運用也超越咖啡。想一想，例如液體揮發若是運用在一層顏料或者噴墨印表機的墨水時，你不會想要文件上的每個字都帶著深色的邊緣外框吧！
+John curry，亞歷桑那大學的化學家也表示，新研究看來解決了問題。「他們發現可微調的變項–明顯地，那並不困難–而且他們可以改變，不管這個薄膜是否均勻。」
+本研究成果，可見期刊《Nature》。（本研究不由Starbucks贊助）
+原文及相關參考出處
+NPR news: Scientists Crack The Physics Of Coffee Rings
+Nature, Volume: 476, Pages: 308–311. Suppression of the coffee-ring effect by shape-dependent capillary interactions

@@ -1,0 +1,4 @@
+*.lsi.projection
+*.lsi.projection.u.npy
+*.mm
+*.mm.index

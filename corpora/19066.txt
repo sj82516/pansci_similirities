@@ -1,0 +1,7 @@
+新研究指出Ａ群鏈球菌（Group A streptococcus; Streptococcus pyogenes）在餓肚子時的代謝和表現出來的毒性有關！在革蘭氏陽性細菌掌管一大群碳水化合物代謝相關酵素基因該不該表現的CcpA（catabolite control protein A）， 現在被證實會影響細菌毒力因子的表現。製造 CcpA 蛋白的基因被破壞後，GAS 菌在感染老鼠時的毒性會變弱。把這些有缺陷的突變株放在養份充足的培養基裡，細菌會製造出毒力因子；但是如果把它們放進低養份的環境（如人體唾液），少了 CcpA 的細菌在毒力因子的製造上就大受影響了。除了生理上的證據外，純化的 CcpA 蛋白也的確會接在毒力因子streptolysin S的promoter基因序列上。所以餓肚子會變壞的這個現象，是印在生物基因裡古老本能囉！
+研究文獻：
+Samuel A. Shelburne, III, David Keith, Nicola Horstmann, Paul Sumby, Michael T. Davenport, Edward A. Graviss, Richard G. Brennan, and James M. Musser. 2008. A direct link between carbohydrate utilization and virulence in the major human pathogen group A Streptococcus. PNAS 105: 1698-1703.
+文章來源：30.6kj
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

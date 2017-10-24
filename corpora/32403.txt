@@ -1,0 +1,35 @@
+文 / Linus Chang
+MIT Technology Review期刊主編Jason Pontin以國家最高決策者的角度探討「Why We Can’t Solve Big Problems？」這個具有遠見的大格局議題，明顯地有意喚醒已連任的歐巴馬總統；
+相反地，臺灣卻不見媒體站在監督者的角度對總統提出深遠的諫言，而從總統大選至今，執政黨仍提不出具體的國家未來發展計劃，更對財政、教育、醫學、環境保護、替代能源等問題視而不見，這是臺灣的悲劇。
+Jason Pontin在文章開頭便提到他的動機源自於前總統John F. Kennedy在1961年5月時的談話，以美國登月計畫作為「Solve Big Problems」的範例。當時，前總統Kennedy要求全美國同心協力發展載人登月計畫，以追趕落後在蘇聯的太空科技(註1)。
+文章中引用當時前總統Kennedy對美國國會說：「commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the Earth.」
+接下來更引述1962年時，他在萊斯大學(Rice University)對Apollo計畫的闡釋：「We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills…」
+上圖圖片裡便是Apollo 11太空人Buzz Aldrin在月球的寧靜海(Sea of Tranquility)上漫步的照片，由另一位同行的太空人Neil Armstrong所拍攝。隨著Apollo計畫所累積的階段式成功經驗，美國終於在今年(2012)精巧地以探測器降落在火星表面上。火星探測計畫的成功代表人類科技的極致成就，雖然造物主沒有賦予人類一對翅膀，但我們卻可以靠夢想展翅飛離到地球以外的行星。
+類似的遠見也發生在雷根(Ronald Reagan)執政時期。Michael Riordan、Guido Tonelli、Sau Lan Wu等3位科學家在科學人第129期(2012.11)的「通往希格斯粒子之路」一文中寫到(註2)，「美國粒子物理學家受到雷根政府鼓勵要有『大想法』，在1980年代後期推動了一個計畫，要建造更大許多、價值高達數十億美元的加速器：超級超導對撞機(SSC)」，隨後CERN終於在30年之後從大型強子對撞機(LHC)中找到希格斯玻色子(Higgs boson)，確認標準模型(Standard Model)的預測。
+希格斯玻色子也是科學界展現「Solve Big Problems」的典範，此基本粒子證明了人類認知能力的無限潛能。因為希格斯玻色子起初是物理學家基於數學模型上的推測，不預期自然會真的存在此粒子，但今年不僅找到了希格斯玻色子，其質量更符合當初標準模型所預測的範圍。簡單地說，人類光靠抽像認知便找到自然界隱藏的物質。
+回到Jason Pontin的討論，他認為自1972年的Apollo 17號升空後，美國再也沒有「Solve Big Problems」的壯舉，於是各種「Big Problems」逐漸惡化，例如饑荒、貧窮、瘧疾、氣候變遷(包含替代能源問題)、癌症、人口老化所伴隨的各種疾病(其中以失智症最嚴峻)等。
+文章末也補充說到，雖然前總統Richard Nixon曾在1971年對癌症宣戰，不過因為過於樂觀而落空，至今我們對治療癌症根本所需的基因技術仍踽踽獨行。此外，科學界估計到了2050年，美國每年花費在照護失智症患者的費用高達1兆美金。
+Jason Pontin則簡單解釋當初登月計畫或火星探測計畫等之所以成功，主要是創投(venture capital)業者資金集中挹注的成果，而創投業者也不諱言，如此龐大金額的風險投資計畫，必須由國家最高決策者制定明確的政策、同時說服全民支持。
+(原文：Going to Mars, like going to the moon, would follow upon a political decision that inspired or was inspired by public support.)
+同一期MIT Technology Review中便以生物科技和替代能源為例，兩者都是高投資、高風險的長期計畫，但成功後的收益同樣很可觀。只是對創投業者來說，不光只是盲目地投入資金而已，政府必須長期地鞏固基礎建設，例如培養相關領域的研究生；同時，政府也得制定明確的施政時程，激發年輕人的熱誠以進入這些領域深耕研究等。
+創投業者Peter Thiel、Max Levchin等人也在文中表達不認同個人電腦(PC)或iPhone的高度成長對未來有所助益，例如Thiel說到：「We wanted flying cars-instead we got 140 characters.」(後者指Twitter)。可是投資在資訊產業短期就可見到回收，因此吸納了大量的創投資金。Jason Pontin認為，以NASA在月球和火星等任務的經驗，只要美國政府確立太空計畫方向，加上民間投資的響應，或許人類將在2030年左右在火星上漫步。
+如果國家領導人沒有洞見、又缺乏魄力，導致人民對未來既不清楚方向、更缺乏信心之下，創投業者寧願投資在風險小、容易回收的企業計畫案上；相對而言，也就是只想解決一些「Small Problems」，這樣的窘態猶如發生在物理學史上的大科學(Big Science)和小科學(Small Science)之爭一案上(註2)。
+(原文：political leaders and the public must care to solve a problem, our institutions must support its solution, it must really be a technological problem, and we must understand it.)
+就如同火星探測計畫或大型強子對撞機，如果我們現在不著手解決「Big Problems」，可預期的未來就不會有進步，等於向下一代預告即將出現的「科學黑暗期」一樣。最後，作者提到仍有無數科學家孜孜不倦地埋首研究「Big Problems」的解決方案，他們迫切需要的是總統登高一呼，制定長遠、具體、實質的政策和喚醒全民的支持，帶領科學家們共同對抗「Big Problems」。
+反觀我們的總統，放任教育、財政、氣候變遷、人口老化等「Big Problems」持續惡化下去；有時，不禁想到臺灣科學家們仍在孤軍奮戰，究竟是一種幸運、還是不幸？
+我們更應該問馬總統：「Why We Can’t Solve Big Problems？」
+(註1)指的是蘇聯於1957年10月4日發射升空的史波尼克一號(Sputnik 1)衛星，不僅震撼美國的科學界，同時也驚醒美國重新檢討教育方針。電影「十月的天空(October Sky)」故事背景便來自此太空競賽事件。
+●Wikipedia專頁：「http://en.wikipedia.org/wiki/Sputnik_1」
+●IMDB：「http://www.imdb.com/title/tt0132477/」
+●Wikipedia專頁：「http://zh.wikipedia.org/zh-tw/十月的天空」
+(註2)參考「科學人」第129期，網址：「http://sa.ylib.com/MagCont.aspx?Unit=featurearticles&id=2083」。
+(註3)參考Wikipedia上關於Big Science的紀事：「http://en.wikipedia.org/wiki/Big_Science」。
+◎補充：
+The Washington Post作家David Ignatius針對「Why We Can’t Solve Big Problems？」這篇文章所撰寫的評論。
+◎原文：「Obama’s challenge: Thinking big」
+◎網址：參考「http://www.washingtonpost.com/opinions/david-ignatius-obamas-challenge–thinking-big/2012/11/28/41c38afe-3981-11e2-8a97-363b0f9a0ab3_story.html」，The Washington Post，2012.11.28
+本文原發表於作者Linus Chang臉書
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

@@ -1,0 +1,13 @@
+這兩天，為了悠遊卡被破解的問題，每一家電視台、報紙、電子媒體都一直報導，筆者剛剛在外面也看到記者訪問智慧卡專家，看著那些專家（宅男？）在鏡頭前面侃侃而談，剛好今天看到一篇超有趣的文章，一群在Tufts大學的專家們開發出了活的密碼(1)。活的密碼？原來，這些科學家們是利用當初由水母(Aequorea victoria )中分離出來的具有238氨基酸的green fluorescent protein(GFP, 2)。當然這個蛋白質原來只能在接收395奈米波長的紫外光後，發出綠色螢光；但是後來經過Martin Chalfie, Osamu Shimomura, 以及Roger Y. Tsien （錢永健）等人的研發後，產生了許多不同顏色的版本，而這三個人也因為對GFP的研發在2008年獲頒諾貝爾化學獎(3)。
+由於這些不同顏色的螢光蛋白(FP)們，一定要放在大腸桿菌(E. coli)裡才能表現，而且不同的螢光蛋白接收的波長不大一樣，這就給了Tufts團隊們一個想法：利用這些螢光蛋白來製造生物密碼。
+首先他們把帶有螢光蛋白的大腸桿菌先按照設定好的密碼養在96孔盤上，然後再把細菌密碼印在醋酸纖維膜(nitrocellulose membrane)上；乾燥後就可以把印有細菌密碼的「紙」裝在信封裡寄出(4)。由於收到密碼的人需要把帶有螢光蛋白的大腸桿菌轉印到培養基上面，等到細菌長起來（一般來說16-18小時的培養應該就OK）後再以特定波長的光去照射這些細菌，才能讀到密碼；而究竟要用什麼樣的培養基、以及要用什麼波長的光來照射細菌才能看到正確的密碼，都需要寄件人提供資料才有辦法看到，因此拿到細菌密碼的人，如果沒有寄件人提供的「解碼表」，很可能連菌都養不活，就更別提要看到密碼啦！
+看到的密碼會長得像什麼樣子呢？像下面這張圖這樣！
+Tufts團隊把這個活的密碼系統稱為SPAM (微生物隱寫陣列，Steganography by Printed Arrays of Microbes)，並且希望未來可以有很多應用，不過筆者認為郵寄細菌還是有它的風險，萬一運送過程中出了什麼差錯，對方很可能怎樣也讀不出來，但是如果小心翼翼地寄信，會不會被發現而被中途攔截呢？雖然作者信心滿滿，但是筆者卻覺得要破解可能沒有Tufts團隊說的那麼難喔！
+參考資料：
+1. BBC Science News. 2011/9/27. Fluorescing bacteria used to encode secret messages.
+2. Wikipedia. 2011/9/24. Green Fluorescent Protein.
+3. Wikipedia. 2011/9/26. Roger Y. Tsien.
+4. Manuel A. Palacios, Elena Benito-Peña, Mael Manesse, Aaron D. Mazzeo, Christopher N. LaFratta, George M. Whitesides, and David R. Walt. 2011.InfoBiology by printedarrays of microorganism colonies for timed and on-demand release of messages. Proc. Natl. Acad. Sci. USA. Early edition.
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

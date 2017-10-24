@@ -1,0 +1,18 @@
+文 / Hemmings Wu（比利時魯汶大學博士生，醫學背景，專攻功能神經外科／神經科學）
+為慶祝2013 Neurogaming Conference（直譯：神經遊戲大會）即將在今年五月在舊金山舉行，作者特別想在此寫篇簡短的文章拋磚引玉，吸引對brain-computer interface（BCI，腦機界面）有興趣的讀者一起來探索BCI的奧祕。
+2013 Neurogaming Conference官網
+相信對第一人稱射擊遊戲（first person shooting）感興趣的人都對1993年id software的經典作品「毀滅戰士」印象深刻。2011年，來自美國Wadsworth實驗室／Albany Medical College的研究團隊實現了讓人不用鍵盤或滑鼠，而直接靠大腦「用想的」來控制遊戲中的主人翁「Doomguy」（實際上是沒有名字的小兵囧）一路過關斬將。受試者是一名癲癇患者，為治療癲癇，事先通過外科手術在大腦皮層植入紀錄電極用來偵測癲癇波。不過既然已經植入電極了，「何不利用這機會做更多與BCI相關的研究」？於是研究團隊有了「能不能讓患者用想得就可以玩Doom」的想法。
+最終，研究團隊達到了「受試者只需要通過沒有按鈕的搖桿控制方向，而開火射擊這個指令可以通過腦皮質電極紀錄到的特殊腦波就能實現」的目標。
+只玩Doom當然不過癮。說到經典遊戲，Space Invaders（太空侵略者）更是家喻戶曉。
+經過分析研究，該團隊也讓受試者可以「只用想的」就能控制飛機左右方向。
+作者將以上腦波解碼過程用最簡單的「分析研究」四字帶過，實際上這中間的運算工作相當複雜，對紀錄環境與硬體設備也有很高的要求。對其中細節感興趣的讀者，不妨通過以下網址做更深入的探索：
+《The Cyborg in Everyone》（《每個人心中都有一個生化人》，居然用了李安導演的梗？！該link裡有Youtube影片，可以看到受試者靠「用想的」玩Doom和Space Invaders的過程。）
+如果讀者有機會去2013 Neurogaming Conference現場聽專家們講解目前BCI應用在遊戲領域的最新發展，歡迎在Pansci上留言，和我們分享世界頂尖的技術成果。
+另外，作者的email地址如下：hemmingswu[at]gmail.com，歡迎對BCI研究有興趣的讀者來信或在Facebook Pansci上交流。
+作者在未來也將盡所能地把全世界BCI領域的大師們發表的文獻進行系統回顧，並希望藉此能吸引更多對BCI及相關學科充滿熱情的青年學子投入到這「步履維艱」卻又「心嚮往之」的研究中。
+備註：文中圖片作者不具有版權。如有侵犯版權／著作產權之行為，請即刻與作者聯繫。
+I do not own the copyrights to the images in this article. If you believe any content appearing constitutes a copyright infringement of another party’s right, please contact me immediately to notify of this infringement.
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

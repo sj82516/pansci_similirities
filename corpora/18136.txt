@@ -1,0 +1,24 @@
+南極望遠鏡的資料支持愛因斯坦的宇宙常數
+從 10 公尺的南極望遠鏡（South Pole Telescope, SPT）得到的數據分析對最廣為人們接受的暗能量（dark energy）解釋提供了新的支持。暗能量是負責加速宇宙膨脹的神秘力量來源。這些數據強烈支持愛因斯坦（Albert Einstein）的暗能量模型 ─ 宇宙常數（cosmological constant）。
+研究結果也開始把注意力放在微中子（neutrino）的質量上。微中子是宇宙中最豐富的粒子，直到最近被認為是不具質量的。一系列關於 SPT 發現的論文已經提交給天體物理學期刊（Astrophysical Journal）。
+加拿大麥吉爾大學（McGill University）物理學教授 Gil Holder 表示，「最新發表的結果只是我們利用南極望遠鏡研究的開始，現在的分析只是根據我們目前所發現的 500 多個星系團（galaxy clusters）中的 100 個星系團。我們預期會有完整的資料集更嚴格限制在暗能量及微中子質量。
+最近麥吉爾大學教授 Matt Dobb、博士後研究員 Keith Vanderlinde 與研究生 Tijmen de Haan 剛從南極回來，他們安裝了一個新的探測器讀出系統（detector readout system）到望遠鏡上。該系統是由唯一參與這項計畫的加拿大麥吉爾大學所開發並建造的。這項具備新檢測技術的電子系統將使望遠鏡能尋找大爆炸後的幾分之一秒所產生的特徵（signature），和改善測量物質和微中子性質的方法。
+暗能量最廣為接受的特性是它造成在宇宙中一直無處不在的滲透力。這種力量可能是能量空間的結果，即使空間裡沒有物質和輻射。這種空洞空間的能量稱為宇宙常數，是由愛因斯坦提出的假設，用來解釋為什麼宇宙是靜止、而沒有瓦解。愛因斯坦後來知道宇宙不是靜止而是在擴大中的，他認為這是他最大的錯誤之一。
+在 90 年代末期，天文學家發現宇宙的膨脹似乎在加速，根據爆炸恆星相對一致的亮度來測量宇宙距離（cosmic-distance）。在大爆炸後，重力應該已經減緩了宇宙的膨脹。
+在愛因斯坦的年代，主流的觀點是宇宙是靜止的。為了適合靜止的宇宙，愛因斯坦把宇宙常數引入他的廣義相對論。但他的常數也適合加速中的宇宙環境，現在有無數的天文觀測支持。其他人假設重力可以在最大的宇宙產生不同的作用。在任一種情況下，天文測量都指向目前尚未了解的新物理。
+SPT 是專門設計來解決暗能量之謎。10 公尺的望遠鏡在毫米波的運作下，產生了宇宙微波背景（cosmic microwave background, CMB）的高解析度圖像，CMB 是大爆炸後遺留下來的光。科學家們利用 CMB 來研究遙遠的大規模星系，可以用於確定微中子的質量和暗能量的性質。
+美國芝加哥大學（University of Chicago）Kavli 宇宙物理學研究所博士後研究員 Bradford Benson 表示，「CMB 確實是宇宙只有 40 萬年時的圖像，在宇宙中第一個行星、恆星和星系形成以前。CMB 已經走遍整個可觀測的宇宙，將近 140 億年，在旅程中有關宇宙的內容和演化資訊都刻印在 CMB 上。」Benson 在 4 月 1 日於亞特蘭大（Atlanta）舉行的美國物理學會（American Physical Society）會議中發表了 SPT 合作的最新研究發現。
+當 CMB 通過星系團時，星團有效地留下陰影，使天文學家能發現宇宙中最龐大的星團，幾乎與它們的距離無關。麥吉爾大學研究生 Tijmen de Haan 是提交利用 SPT 數據及 X 光衛星記錄的影像組合來分析星系團的論文給天體物理學期刊的主要作者之一。de Haan 解釋，「這些測量顯示在整個宇宙的歷史中有多少個星團形成。這些是宇宙中最大的重力坍塌物體。他們的增長速度對微中子質量以及暗能量對宇宙結構生長的影響很敏感。他們揭露了構成宇宙的基石。」
+微中子的存在是在 1930 年提出的。25 年後才第一次偵測到微中子，但仍然不知道其確切的質量。如果他們太重，他們會顯著影響星系和星系團的形成。
+現在 SPT 團隊已經嚴格限制微中子的質量，產生的數值接近粒子物理測量所產生的預測值。
+SPT 的研究也正被用於繪製宇宙中物質分布的地圖，以過去無法達成的精確度來測量宇宙微波背景天空中明顯位置的微妙移動（shift）。麥吉爾大學研究生 Alex van Engelen 在他最近提交給天體物理學期刊的論文中，提出目前對這種影響最精確的測量，解釋這些移動是主要由暗物質組成的質量變動（mass fluctuations）引起的重力而造成的。」
+這項南極望遠鏡合作計畫由芝加哥大學領導，其他研究團隊包括阿岡國家實驗室（Argonne National Laboratory）、英國卡迪夫大學（Cardiff University）、美國凱斯西儲大學（Case Western Reserve University）、哈佛大學（Harvard University）、慕尼黑大學（Ludwig-Maximilians-Universität）、麥吉爾大學、美國史密松天文台（Smithsonian Astrophysical Observatory）、加州大學柏克萊分校（University of California at Berkeley）、加州大學戴維斯分校（University of California at Davis）、科羅拉多大學博爾德分校（University of Colorado at Boulder）、密西根大學（University of Michigan），以及其他機構的科學家們。
+參與南極望遠鏡計畫的麥吉爾大學研究人員包括教學人員 Matt Dobbs、Gil Holder、博士後研究員 Amy Bender 和 Keith Vanderlinde、研究員 Tijmen de Haan、Jon Dudley、Alex van Engelen 及 James Kennedy。
+SPT 的經費主要來自於美國國家科學基金會（United States National Science Foundation）極地計畫辦公室（Office of Polar Programs）。另外部分來自於 NSF 資助的 KICP 物理尖端中心（Physics Frontier Center of the KICP）、Kavli 基金會、Gordon 和 Betty Moore 基金會的支持。加拿大團隊獲得加拿大自然科學暨工程研究委員會（Natural Sciences and Engineering Research Council）、加拿大進階研究所（Canadian Institute for Advanced Research）及加拿大研究講座（Canada Research Chairs）計畫的支持。
+作者：駐加拿大台北經濟文化代表處科技組
+資料來源：South Pole Telescope data shedding light on dark energy—McGill University [2012-04-02]
+轉載自國科會國際合作簡訊網 [2012-05-21]
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

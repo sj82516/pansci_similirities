@@ -1,0 +1,24 @@
+今年可以被定義為台灣的食品安全元年，從DEHP到南投四人食物中毒、到後來的幾個事件，無不引起大家對食品安全的注意。
+不過，最後發現除了DEHP以外，後來一連發生的幾件事都與食物中毒/食品安全無關，反而與藥物的相關性比較高。
+最近才偵破的南投四死案，從原以為的肉毒桿菌中毒，到最後案情急轉直下，原來是氯乙醇中毒，而且是毒殺。兇嫌因為怨恨昔日女友另嫁他人，竟然將非法催芽劑氯乙醇加入米酒中餽贈昔日女友夫婦，導致四人死亡（新聞連結, 1）。
+從當初死者的家屬就懷疑是催芽劑時（那時候是七月），筆者就做了一點搜尋。印象中可以促進植物長芽的東西都是植物賀爾蒙，不應該有劇毒。
+從一篇新聞上知道這個催芽劑叫做「氯乙醇」，用中文名字去搜尋發現國內的資料其實很少，只有柳居豐醫師(2)的網站上提到他曾經治療過十幾位中毒病患，死亡率極高（超過40%）(3)。
+不過也從重億興業的網站(4)上找到氯乙醇的全 名：Ethylene chlorohydrin，由chlorohydrin與ethylene混合於水形成，一般來說是作為有機溶劑使用。但是在農業上，由於氯乙醇可以強迫 葡萄同步發芽，甚至連冬季非萌芽期也可以強迫催芽，讓葡萄一年可以收穫兩次（這實在是令人非常心酸的一件事），所以廣受民眾歡迎。雖然也有替代的用品(5)如「氫胺」或「氫氨基化鈣」，但是因為價格略高且催芽效果不如氯乙醇好，所以農民仍然不顧危險繼續使用氯乙醇。
+氯乙醇的毒性是怎麼來的呢？原來它的毒性是來自於代謝物chloracetaldehyde。Chloracetaldehyde抑制 succinate-cytochrome C oxidoreductase (6)，並干擾磷酸根的傳遞；由於succinate-cytochrome C oxidoreductase 為電子傳遞鏈(electron transport chain/oxidative phosphorylation)的第二個複合體(complex II)，也是檸檬酸循環(citric acid cycle, tricarboxylic acid cycle)的第六個酵素(7)，可想而知chloracetaldehyde的毒性有多強，也就難怪氯乙醇中毒死亡率如此高了。
+對於不瞭解檸檬酸循環以及電子傳遞鏈對我們有多重要的讀者，可以簡單看一下下面這個代謝總圖：
+中央下方的那個藍色的圈圈就是檸檬酸循環，左下角的紫色小結構，寫著 “Energy Metabolism"就是電子傳遞鏈。我們所有吃進去的食物，最後都會送到檸檬酸循環去進行氧化，而所有吃進去的食物氧化後，如果要放出能量，都要送到 電子傳遞鏈去，否則就不能變成能量（ATP，腺口票呤核苷三磷酸）。食物的能量，我們是不能直接使用的，要經過許多複雜的步驟進行氧化代謝（如上圖）轉化 為ATP後，才能使用；而檸檬酸循環跟電子傳遞鏈則是這整個氧化代謝的樞紐。
+所以，一旦succinate-cytochrome C oxidoreductase被抑制，檸檬酸循環跟電子傳遞鏈都受到影響，病人就會出現全身性的症狀，包括噁心、嘔吐、心跳加快、血壓下降、抽筋、昏睡、呼吸衰竭等(3)，由於氯乙醇的代謝物不易驗出，造成這整個案件，光是要釐清中毒的毒物為何就已經相當困難。
+目前據說沒有專用的解毒劑(3)，但筆者在國外網站(8)上查到可以用甲基藍(methylene blue)Evans Blue 或 Gentian Violet，或許可以參考一下。
+參考資料：
+1. 南投4死逆轉 轉向情殺下毒. 2011. 中央社. (http://news.chinatimes.com/society/130503/132011082200716.html)
+2. 氯乙醇(Ethylene chlorohydrin)-葡萄催芽劑的急性中毒. 柳居豐醫師.(http://www.pcc.vghtpe.gov.tw/old/docms/50105.htm)
+3. 葡萄催芽劑 無專用解毒劑. 2011/8/22. 中央社. (http://tw.news.yahoo.com/article/url/d/a/110822/5/2xbqd.html)
+4. 氯乙醇(Ethylene chlorohydrin)-葡萄催芽劑的急性中毒.2008/2/28.重億興業股份有限公司網站(轉載柳居豐醫師資料http://cy-nec.idv.tw/zh-TW/node/204)
+5. 農婦觸劇毒催芽劑枉死 農改場推動無毒藥劑. 2008/2/18. 環境資訊中心(http://e-info.org.tw/node/30496)
+6. M Mohrmann, A Pauli, H Walkenhorst, B Schönfeld, M Brandis Effect of ifosfamide metabolites on sodium-dependent phosphate transport in a model of pro. Ren Physiol Biochem (0) 16: 285-98.( http://www.mitochondrial.net/showabstract.php?pmid=7506438)
+7. Curehunter.com. 2011. Succinate-cytochrome C oxidoreductase (http://www.curehunter.com/public/keywordSummaryD013384-Succinate-Cytochrome-c-Oxidoreductase.do)
+8. Chacha.com. 2011. What is an alternative treatment for chloracetaldehyde toxicity other than methylene blue?(http://www.chacha.com/question/what-is-an-alternative-treatment-for-chloracetaldehyde-toxicity-other-than-methylene-blue)
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

@@ -1,0 +1,23 @@
+我們的大腦是個非常神奇的器官。他大約重 1.3 到 1.4 公斤，約有一千億個神經元，每個神經元都向外觸及其他一千顆（老鼠大約只有十分之一的連結）。由於每個神經元都和另外的一千顆有接觸（而且這一千顆並不一定在旁邊），使得腦子所有的部位都能保持密切聯繫 [1]。
+既然每一顆神經元都要跟另外的一千顆有聯繫，神經元是否能正常的成長就很重要了。過去曾發現兩種長鏈多不飽和脂肪酸（long-chain polyunsaturated fatty acids, LC-PUFA），DHA（docosahexaenoic acid，屬於 omega-3 脂肪酸）與 AA（arachidonic acid，花生四烯酸，屬於 omega-6 脂肪酸），對神經元的成長很重要 [2]。
+雖然 DHA 與 AA 對神經元的成長很重要，但是我們並不能用簡單的原料（如 2 碳的乙烯輔酶 A）去合成它們。我們只能用 ALA（alpha-linolenic acid）與 LA（linoleic acid，亞麻油酸）來合成 DHA 與 AA。也就是因為這樣，所以我們一定要從飲食中取得 ALA 以及亞麻油酸，或者直接攝取 DHA 與花生四烯酸也可以。
+如果是攝取 ALA 與亞麻油酸，由於它們只有 18 個碳，但是 DHA 為 22 個碳，而花生四烯酸則有 20 個碳，所以由 18 碳到 20-22 碳會需要延長（elongation）碳鏈以及加入雙鍵（去飽和反應，desaturation）。這其中，將雙鍵加入五號碳和六號碳的酵素 FADS1 與 FADS2，是這一整條合成途徑的速率限制步驟。
+FADS1 與 FADS2 這兩個基因以頭對頭的方式座落在人類的第十一條染色體上。最近的研究發現，這兩個基因在人類的演化史上曾出現過變異。兩種主要的變異型 A 與 D，其中 D 使得酵素 FADS1 的表現量上昇。研究團隊發現，具有 D 變異型的人，合成 DHA 與花生四烯酸的能力，明顯地比 A 變異型的人要好很多 [3] [4]。
+研究團隊分析發現，兩種變異型出現的時間都小於 50 萬年；而 D 變異型與原來的基因差異較大，而且大部分的現代人都具有 D 變異型。
+由於 D 變異型可以合成更多的 DHA 以及花生四烯酸，且這些 omega-3 與 omega-6 脂肪酸可刺激神經元的發育，研究團隊認為這個基因變異，使得現代人即使在飲食中未取得 DHA 與花生四烯酸（這兩種脂肪酸要從動物中取得，尤其是 DHA 要從海魚中獲取），還是可以經由亞麻油酸與 ALA（這兩種脂肪酸可由植物中取得）來合成足夠的 DHA 與花生四烯酸。
+由於現代人與尼安德塔人（Neanderthals）在演化上分道揚鑣的時間大約就在 50 萬年前，研究團隊認為，D 變異型在現代人的基因中出現，是否提供了現代人在大腦發育上的優勢呢？由於具有 D 變異型基因的人可以在打不到獵物的狀況下，靠著採集到的果實、塊莖等食物所提供的亞麻油酸與 ALA，仍能合成足夠的 DHA 與花生四烯酸；這是否代表他們在歷史的智力競賽中取得較佳的優勢呢？
+由於大部分的現代人都具有 D 變異型，因此可以說具有這種變異的人的確在演化上有優勢；但是這個基因變異到了 20 世紀，似乎成了一個劣勢。
+怎麼說呢？原來體內有較高的 omega-6 脂肪酸（如：花生四烯酸）會造成前發炎性二十碳烯酸（proinflammatory eicosanoids）的合成。
+這些前發炎性二十碳烯酸的功能包括血管收縮以及血栓形成，提高了心臟病和中風的風險。
+所以，原本在演化上，FADS1 與 FADS2 基因的 D 變異型，因為可以在儉約飲食狀況下仍能讓我們神經元發育良好，因此有了優勢；但是到了現代，卻因為飲食中動物性食物不虞匱乏反而成了一種缺點。
+或許，這個研究結果，也是在提醒我們，我們在數十萬、數百萬年的演化長流中，演化出的儉約基因（thrifty genes），真的不適合 20 世紀中葉以來的奢侈口味；『享福了福，福盡悲來』，清平致福，八分飽才是王道，不是嗎？
+參考資料
+[1] 奇普．沃特著。2011.重返人類演化現場.漫遊者出版.
+[2] Darios, F., and Davletov, B. 2006. Omega-3 and omega-6 fatty acids stimulate cell membrane expansion by acting on syntaxin 3. Nature 440, 813-817.
+[3] Genetic adaptation of fat metabolism key to development of human brain.
+[4] Ameur, A., Enroth, S., Johansson, A., Zaboli, G., Igl, W., Johansson, A.C.V., Rivas, M.A., Daly, M.J., Schmitz, G., Hicks, A.A., Meitinger, T., Feuk, L., van Duijn, C., Oosta, B., Pramstaller, P.P., Rudan, I., Wright, A.F., Wilson, J.F., Campbell, H., and Gyllensten, U. 2012. Genetic adaptation of fatty-acid metabolism: a human-specific haplotype increasing the biosynthesis of long-chain omega-3 and omega-6 fatty acids. The American Journal of Human Genetics. 90: 1-12.
+本文原發表於作者部落格
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

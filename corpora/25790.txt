@@ -1,0 +1,40 @@
+這陣子香港因為一間遊樂園兼海洋動物機構增加海豚表演場數，引起動物權益人士及保育團體不滿，令圈養海豚的議題一下子又變得鬧哄哄的。報章也不乏針對圈養海豚的批判報道。不管在圈養海豚問題上的立場如何，這波話題能令社會大眾對此有所認識、願意關心並以公眾身份監察海洋動物圈養機構，不論對增進社會的動物倫理討論及動物機構內的動物福利，都是好事一樁。
+一段針對圈養海豚的報道指出：「國際組織鯨豚保育協會的《歐盟動物園調查2011》報告指出，野生樽鼻海豚的死亡率是3.9%，但若然是圈養的樽鼻海豚，則升高至5.6至7.4%。」(引述自2012年8月14日的香港經濟日報)。另一則報道又說：「Courtney引述 WDCS的《歐盟動物園調查2011》指出，野生樽鼻海豚的死亡率是3.9%，人工飼養則短命得多，死亡率最高達7.4%，死因多涉及壓力症狀，如肺炎、敗血症等。」(引述自2012年08月25日的香港蘋果日報)。然而，我搜尋《歐盟動物園調查2011》後，並閱覽調查報告所引述的死亡率研究原論文，則發覺此報告方式於科學上大有問題，實有誤導公眾之嫌。故此我認為有必要撰文澄清，藉此推廣一下和科學統計有關的科普知識。希望讀者能先放下對圈養海豚這敏感話題的立場，單純地以實事求是的科學精神去審視《歐盟動物園調查2011》及兩則報道中比較死亡率的方式的問題。若有了解統計學的讀者認為我的內容有誤，也歡迎提出指正。
+《歐盟動物園調查2011》(EU ZOO INQUIRY 2011)中有關圈養及野生海豚死亡率的報告，分別引用了DeMaster and Drevenak (1988)、Duffield and Wells (1991)、Small and De Master (1995)、Woodley et al. (1997)這四份圈養海豚生存率研究報告，以及Wells and Scott (1990)這野生海豚死亡率研究報告。當中我能閱及的論文只有DeMaster and Drevenak (1988)及Small and De Master (1995)，至於Wells and Scott (1990)則只看過摘要，不過這篇野外研究也在Small and De Master (1995)有論及並有作出正式的比較(後述)。雖然未能閱及所有論文，但我相信我已能作出公正的批判。
+根據《歐盟動物園調查2011》所列的比較表(P.20)，圈養海豚死亡率分別是7.0%( DeMaster and Drevenak, 1988)、7.4%(Duffield and Wells, 1991)、5.6%(Small and De Master, 1995)及5.7%(Woodley et al., 1997) ，而野生海豚死亡率是3.9%(Wells and Scott, 1990)。《歐盟動物園調查2011》又說：「野生的幼豚及成豚的每年生存率都要比圈養的高(Small and DeMaster, 1995a)。
+(原文：“…annual survival rates for both calves and adults in wild bottlenose dolphin populations are higher than those for captives (Small and DeMaster, 1995a)”)」 (P.19) 。
+但事實是怎樣的呢？
+首先，讓我們看看DeMaster and Drevenak (1988)。DeMaster and Drevenak所計算的其實不是死亡率，而是生存率。他們先計算出每日生存率(Daily survival rate)。計算方法是：觀察期內死去的個體數總和，除以每隻個體的觀察期的日數總和(又稱動物日數(Animal-days)，最後以一減去兩數相除所得的商。然後他們再將每日生存率轉換成每年生存率(Annual survival rate)。每年生存率就是每日生存率的365.25次方(一年的平均日數)。舉例說：若於10000個動物日數中發生了六宗死亡事件，每日生存率就是1-0.0006=0.9994，每年生存率則是0.9994的365.25次方=0.80。Small and De Master (1995)也用了相同的計算方式。而《歐盟動物園調查2011》的每年死亡率就是算自：1-每年生存率。
+DeMaster and Drevenak指出，這種計算方式背後有兩個前設(assumption)，若無法滿足則可能導致結果出現偏差。一：一隻個體的死亡不可以影響另一個體的生存機率。二：每天的生存機率必須保持不變。DeMaster and Drevenak說他們的研究大概符合了以上假設，只是有一點可能有偏差：假若年齡會影響生存機率的話。DeMaster and Drevenak提到因為樣本數不足，他們無法得知十歲以上的圈養海豚生存率，故無法比較年老和年青海豚的生存率差異。他們提到年齡效應於比較圈養和野外生存率的重要性：「直至有更多研究前，比較這些物種的野外和圈養生存率是不可能的。有一位評論者指出圈養動物的平均年齡通常比野外的低。因此，在比較野外和圈養動物生存率時，年齡構成對平均生存的影響可能很重要。
+(“Until additional studies are completed, it will not be possible to compare the survivability of free-ranging animals for these three species with captive animals. One reviewer noted that the average age of captured animals is generally less than the average age of free-ranging animals. Therefore, in comparing survival of captive and free-ranging animals, the effect of age composition on average survival may be important.”) 」(P.308)。
+雖然在DeMaster and Drevenak寫成論文的時期還不可能做出有意義的比較，但DeMaster and Drevenak還是嘗試利用當時僅有的數據去作粗略的對照。他們引述Reilly and Barlow (1986) 使用估算生產率和死亡率所推算的野外海豚生存率(約0.94至0.95)，評述為「跟圈養海豚的估算生存率一致」(P.308)。又引述Ohsumi (1979) 預測的海豚每年死亡率(0.13)，對比本研究的圈養海豚每年死亡率0.07，指出也許圈養海豚的生存率跟野外相比一樣，甚至更高(P.308)。當然，DeMaster and Drevenak的研究數據不足，也有點過時，更缺乏統計上的有意義比較(後述)，因此我們稍為參考一下就好。
+讓我們看看後來的新研究。Small and De Master (1995)計算圈養海豚每年生存率為0.944(非幼豚)及0.666(幼豚)。他們更正式跟Wells and Scott (1990) 的野外數據(每年生存率：0.961(非幼豚)及0.803(幼豚))作出統計學上的有意義比較。比較發現，兩個統計分析的P值分別是0.07及0.12。也就是說，兩個統計差異都並非有效，差異並不顯著。更確切來說是甚麼意思呢？P值就是發生假陽性錯誤(False positive error)的機會率，傳統上P值要小於0.05才算統計有效、差異顯著(有些學科如醫學的有效門檻會更低，但生物學傳統是用0.05作門檻的)。
+為甚麼要強調統計有效性和差異顯著性呢？首先，不論DeMaster and Drevenak (1988)、Small and De Master (1995)，還是Wells and Scott (1990)，他們所估算的每年生存率全都是平均數，是記錄一大堆樣本(海豚個體)的數據後再取其平均值。事實上每個樣本之間的數字偏差可能是非常大的，因為所有樣本並不是所有條件(身處環境、內在狀態)都相同的。以圈養海豚為例，就算同是圈養，不同機構內的細微環境都不會一樣，海豚的體質狀況都不會一樣，這會使得計算出來的數據有所差異。當樣本間數據差異極大，不同數據跟事實的接近性就會不穩定，有強烈波動，誤差也會大。
+由於DeMaster and Drevenak (1988)及Small and De Master (1995) 均指出不同圈養機構的海豚有顯著的每年生存率差異(P值小於0.005)，我們可以設想平均圈養數據是非常波動、誤差極大的。當研究員用誤差大的圈養數據和野外數據作比較，他們需要根據數據波動的誤差，計算出圈養和野外的生存率的差別有多少可能性是出於非圈養因素(例如不同圈養環境內的不同設定、海豚體質不同等等)所造成的誤差 (Error)，這個可能性就是P值。研究員再根據P值是否小於0.05，判斷生存率的差異是否由單純地由圈養及野外的環境差異所造成(即所謂統計是否有效、差異是否顯著)。
+因此，有時即使數字上看來差得遠(如野外幼豚8成生存率對比圈養幼豚6成7生存率)，實際上還是沒有差異存在(即是說差異是統計誤差造成，不是圈養和野外的單純環境分別造成)。統計分析的P值是非常重要，任何從事科學研究的人都必須依賴P值，去判斷研究結果是否有效。若有人提出數據比較，卻沒有提供p值，又或者沒有宣稱過統計是否有效，就要小心他是否只是玩數字遊戲，誤導公眾。
+我已說明了統計分析對於比較野生及圈養海豚生存/死亡率的重要性。像《歐盟動物園調查2011》及其相關報章報道這樣，斷章取義地抽出不同研究報告計算出來的生存/死亡率，未進行統計分析就直接作出比較，是沒有意義的。就算數字上不同，也不代表統計上有顯著差異。這一點是非常重要的科學常識。
+除此之外，據Small and De Master (1995)引述，Wells and Scott (1990)也有言明自己有可能低估野外海豚的每年死亡率(0.39，是最低死亡率0.10和每年因其他事故喪失率0.29的總和)。Wells and Scott的研究方法採用捕捉及放回技術(如檢查人工或自然記號、生物樣本和電子追蹤)、觀測並區辨自然個體記號等等。他們相信這方法會有潛在的偏差，因為有些死亡個案很可能是觀察不到，而有些屍體則過份腐爛而無法辨識。
+《歐盟動物園調查2011》所做的誤導是，將Small and De Master (1995) 及Wells and Scott (1990) 的數據並列出來對比，卻隻字不提Small and De Master (1995) 的論文中，Small and De Master使用Wells and Scott (1990) 的數據作出的具統計意義的比較(以及其沒有實際差異的比較結果)。另外，《歐盟動物園調查2011》於引述不同研究報告的數據時，也沒有提醒讀者數據計算的潛在偏差，尤其是對Wells and Scott (1990) 親自承認可能低估野外死亡率一事居然隻字不提。在這裡，因為負責報告的鯨豚保育協會(Whale and Dolphin Conservation Society) 及Born Free Foundation都是立場鮮明的反圈養機構，《歐盟動物園調查2011》絕對有隱瞞不利事實之嫌。
+而且，《歐盟動物園調查2011》並非只在引用數據時隱瞞對自己立場不利的部分，更於「野生的幼豚及成豚的每年生存率都要比圈養的高(Small and DeMaster, 1995a)」一句，明顯地扭曲Small and De Master (1995)使用Wells and Scott (1990)數據所比較出來的統計分析結果，將沒有顯著差異講成有差異。Small and De Master的原文清楚講明：「他們(Wells and Scott)估算的野生海豚生存率較我們估算的圈養生存率高，但差異並不顯著[…] 假設兩組樣本數能增加約20%，野生及圈養成豚的生存率差異將變成顯著。」
+(“Their estimates of dolphin survival in the wild were higher than our estimates of captive survival, but the difference was not significant […] The difference in survival between wild and captive non-calves would be significant if the number of days in both samples was approximately 20% larger.”)(P.220)。
+Small and De Master更於總結時提出顯著統計差異能否代表顯著生物/生態差異的詮釋難題。舉例說：圈養及野生族群的P=0.008顯著統計差異是否代表一個重要的生態差異？Small and De Master認為這個問題雖然難以解答，但為了解決圈養海洋哺乳類動物的爭議，這個難題是有必要解答的(P.225)。
+圈養海豚是一個複雜的動物倫理議題。我絕對贊同正反雙方拿出堅實的科學數據投入討論。我甚至認同反方有些論據是有力的，例如圈養海豚未能以圈養繁殖維持族群，必須從野外捕捉新血，而野外捕捉則可能影響野外族群的存續。但是，假若為了反對圈養海豚，就於比較圈養及野生海豚死亡率時，偏頗地引用其他研究數據，以求隱瞞不利自己立場的資訊，甚至扭曲他人的研究原文，以誤導公眾，這種反對方式則叫人不敢恭維了。所幸的是，這份報告引用研究數據時，有提到原文出處。這做法好讓有心的讀者能夠追溯原文，監察引用是否正當，有否扭曲研究結果。這份敢於接受讀者監察的勇氣還是值得讚賞的。也因此，報道科學時引用原論文是非常重要的。因為這讓讀者有判斷報道內容是否可信的機會，也讓資訊能夠被公眾批判、資訊的正確性能被討論。這對正確的知識的傳播、培養公眾的科學批判思維實在是非常重要。
+最後，我想說的是，我們不應因為《歐盟動物園調查2011》在死亡率的數據上有誤導之嫌就無視這份報告、將所有內容統統當為錯誤。動物福利的指標不只有生存/死亡率，也有其他更值得關注的要素如心理生活質素，人們毋須只執著於生存/死亡率一項指標去爭論。因此，這份檢討範圍廣泛的報告仍有可觀的參考價值。《歐盟動物園調查2011》比坊間一些對圈養的無理取鬧式批評相比，實不失為一份有力、正當的批判文獻，對於提高大眾對圈養動物福利關注及施壓改善圈養動物福利仍有相當大助益。對於廢除圈養動物派別當然也能提供有用的論據。其結果是可以深化圈養動物倫理的討論，提供動物福利派和動物權利派的一個共同的理論平台，讓討論變得有意義，不再流於無意義的訴諸情緒、動物擬人化、天賦權利與否之爭。
+註：本文提及的海豚均為瓶鼻海豚(Tursiops truncatus)
+相關報告及報道：
+EU ZOO INQUIRY 2011：DOLPHINARIAA review of the keeping of whales and
+dolphins in captivity in the European Union and EC Directive 1999/22, relating to the keeping of wild animals in zoos
+被迫表演海豚會自殺 專家促海洋公園停止圈養—蘋果日報：要聞港聞－2012年08月25日
+海豚表演討好觀眾 牠真的快樂嗎？—香港經濟日報—2012年8月14日
+參考論文：
+DeMaster, D. P. and Drevenak, J.K., 1988, Survivorship patterns in three species of captive cetaceans, Marine Mammal Science, 4(4), 297-311
+Small, R.J. and De Master, D.P., 1995, Survival of five species of captive marine mammals, Marine Mammal Science, 11(2), 209-226
+Wells, R.S. and Scott, M.D., 1990, Estimating bottlenose dolphin population parameters from individual identification and capture-release techniques, Report of the International Whaling Commission, Special Issue 12.
+延伸閱讀：
+不談錯誤 哪來準確—創新發現誌：第 15期
+數字盲與統計之必要—泛科學：2012 一月 5日：潘震澤|生理人生
+民調可靠嗎？—泛科學：2011 十二月 23日：潘震澤|生理人生
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

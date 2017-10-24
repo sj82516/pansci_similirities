@@ -1,0 +1,48 @@
+這是一個免疫學上很有趣的說法，在我念書時，喜歡把它叫做「髒小孩理論」。
+1989年，David P. Strachan（1）觀察到一件事：家庭成員（在此指的是兄弟姐妹人數，不是爸爸媽媽人數）愈多的，乾草熱及濕疹就愈不常發生；相反的，家庭成員愈少的，發生乾草熱及濕疹的機會就愈高。乍看之下沒什麼特別的，但是有趣的點在於，乾草熱及濕疹都屬過敏疾病，也就是說，Strachan告訴我們家庭人數愈多就愈不容易過敏。這篇文獻被認為是Hygiene hypothesis的鼻祖。簡單的說，所謂的衛生假說包括兩件事：
+童年時期經常性的感染對於過敏疾病有保護的效果。
+因為衛生條件改善、抗生素使用或是打疫苗，使得兒童時無法與感染源有「有效接觸」的話，成人後免疫系統有可能對原本無害的抗原產生不正常的反應，因而造成過敏性疾病。
+在這篇文獻發表之後，大家都有幾個問題：
+這篇觀察可信嗎？（即：這個現象真的存在嗎？）
+如果可信，那這個假說只局限於過敏性疾病，還是可以應用在其他疾病呢？
+通常在人類身上看到一個現象後，科學家的壞習慣是喜歡在實驗室中找無辜的老鼠試試…於是，有人拿一種Non-obesity diabetes （NOD）老鼠（不肥，可是得糖尿病的機會比別的老鼠高）來做實驗。有人利用剖腹生產的方式把一群生產後的NOD老鼠，養在無菌的環境下 （註：使用剖腹產可以避免生產過程中經過產道時幼鼠被產道細菌「污染」），發現這麼做可以把原本NOD發生糖尿病的發生率由50%左右提高到80%左右（2）。換句話說，養在無菌狀況下的老鼠比較容易得糖尿病。而且這種情形（糖尿病機會增加）可以因為感染各種病原包括結核菌、肝炎病毒或是血吸蟲等而得到改善 （以上各病原都是一篇文章，死傷無數NOD老鼠。老鼠真的蠻無辜的）。
+也就是說，在positive selection bias非常嚴重的醫學期刊界認為，在老鼠身上Hygiene hypothesis確實存在。那麼人類呢？
+讓我們直接跳到一張圖
+其實這張圖原圖出於2002年巴哈先生在NEJM上的一篇文章（3），我們可以看到這是美國的疾病發生率。由1950年起有一群疾病減少了，包括麻疹、風濕熱、A型肝炎、腮腺炎及結核等的發生率下降了。而氣喘、第一型糖尿病、多發性硬化症跟克隆氏症的發生率上升了。前面下降的一類都屬因病原感染造成的感染症；後面增加的這一群都屬自己免疫系統錯亂造成的自體免疫疾病。當然，只看這個圖是很容易給人誤導的感覺，因為人體疾病不只一百種，作者可以把想表達的疾病下降的放在一起，上升的放在一起，而且只放其中幾種。那麼，我們再來看另一張圖：
+這張圖還是上面那篇文章內的，只是日本人用了，我也就不客氣的把連結放出來 =_=
+這張圖所表達的是歐洲各國的多發性硬化症（一種自體免疫疾病）的盛行率。我們可以看到愈北方國家盛行率愈高，愈南方則愈低，而且由西而東下降。如果讀者們有興趣，不仿去查查這些盛行率高的國家的GNP（國民生產毛額）跟盛行率低的國家的GNP差多少。也就是說，由這張圖看起來是愈有錢的國家多發性硬化症病人就愈多。（小提示之一：愈有錢的國家愈重視國民衛生，小朋友打的預防針都通常不會少；小提示之二：小朋友打的預防針是用來預防病原感染的，即使是子宮頸癌疫苗）
+其實該文還有另一個圖，用來表示第一型糖尿病的，結果也是長得跟多發性硬化症很像。通常，若是單一疾病我們還可以把原因賴給種族、基因、文化差異等等，但兩個成因極多的自體免疫疾病有極類似的分佈，似乎內情並不單純！？根據內科人做鑑別診斷時的最愛：Occam’s razor，Hygiene hypothesis似乎在人類身上也站得住腳。但是，此時又有幾個問題：
+有關係不等於有因果關係！！要看因果關係無法用流行病學的方法。
+若是Hygiene hypothesis成立，那麼，是所有病原都成立？還是只有部份病原有此現象？同理，是影響所有的自體免疫疾病，還是只有部份的？
+若是Hygiene hypothesis成立，那麼機轉為何？ （Ans：有一堆paper，但不在本文討論範圍內）
+限於打字速度與我的時間，我只能很簡單介紹一小部份文獻及其結果，如需詳情還是要上網自己抓囉。至於上面的2個問題請讀者看下面的研究試著自己給個回答吧！
+我們先依病原分類，分成寄生蟲跟病毒 （細菌類請自己作功課了，尤其益生菌的部份…）。
+寄生蟲
+a. 委內瑞拉得寄生蟲 （蛔蟲）的小朋友在除蟲治療之後兩年，對塵蟎過敏的IgE在患病治療組 （很難想像這種實驗會有控制組）增加，而且比率由17%增加到68%（4）
+b. 加彭的小朋友若是感染了血吸蟲，那麼他們對塵蟎的過敏比率會下降。（5）
+c. 中國的小朋友得了蛔蟲則氣喘（一種過敏疾病）的比率會增加。（6）
+d. Chaga’s disease是由Trypanosoma Cruzi（一種寄生蟲）所引起的，該病會引起過敏及血管炎。
+由以上看起來似乎有些寄生蟲對過敏及自體免疫疾病是「好」的，而有些則是「不好」的。
+病毒
+a. 呼吸道融合病毒（RSV）感染是小朋友氣喘的獨立危險因子（7）。
+b. 治療呼吸道融合病毒（RSV）感染可以逆轉氣喘的危險。（8）
+看到這兒先別急著看下去，請先思考一件事：David P. Strachan在1989年所觀察到的，是家庭人口愈多，就愈不容易有過敏性疾病。而這會文獻又告訴我們，會飛沫傳染的RSV會造成氣喘機會增加… （家庭人口愈多–>哥哥RSV中標弟弟也逃不掉–>氣喘在家庭人口愈多的家庭應該更多–>Strachan觀察相反）
+有另一篇BMJ的文獻指出，在三歲前若是得到下呼吸道感染，則七歲（含）之前被醫師診斷出氣喘的機會跟支氣管過敏的機會都比較高（9）。但是，同一篇文章也說：3歲前的病毒感染（含帶狀疱疹等） 則七歲（含）之前被醫師診斷出氣喘的機會跟支氣管過敏的機會都比較低。看來似乎矛盾，但它其實解釋病毒感染的「部位』（上呼吸道及下呼吸道）可能對日後氣喘的發生佔更重要的因素。但此文不是針對RSV所做，所以不能推翻前文對RSV的看法，當然RSV的研究也沒解釋感染部位就是了。
+細菌
+衛生假說其實就是益生菌的理論基礎。但本文在此並沒有要討論益生菌…因為相關文獻太多 =_=
+綜合以上，我們可以知道醫學上似乎有這樣的一個現象，但是此假說立論基點影響太廣以致有許多反反覆覆的證據支持或反對，但一般而言，年輕人免疫力正常的情況下感染症多半可以治癒；而過敏症及自體免疫疾病則多半只能症狀控制而不一定能根治。所以當個髒小孩，也許對你比較好喔！
+Reference
+Strachan, D. P. 1989. Hay fever, hygiene, and household size. BMJ 299: 1259–1260.
+Like, A. A., D. L. Guberski, and L. Butler. 1991. Influence of environmental viral agents on frequency and tempo of diabetes mellitus in BB/Wor rats. Diabetes 40: 259–262.
+Bach, J.-F. 2002. The effect of infections on susceptibility to autoimmune and allergic diseases. N. Engl. J. Med. 347: 911–920.
+Lynch, N. R., I. Hagel, M. Perez, M. C. Di Prisco, R. Lopez, and N. Alvarez. 1993. Effect of anthelmintic treatment on the allergic reactivity of children in a tropical slum. J. Allergy Clin. Immunol. 92: 404–411.
+Van den Biggelaar, A. H., R. van Ree, L. C. Rodrigues, B. Lell, A. M. Deelder, P. G. Kremsner, and M. Yazdanbakhsh. 2000. Decreased atopy in children infected with Schistosoma haematobium: a role for parasite-induced interleukin-10. Lancet 356: 1723–1727.
+Palmer, L. J., J. C. Celedón, S. T. Weiss, B. Wang, Z. Fang, and X. Xu. 2002. Ascaris lumbricoides infection is associated with increased risk of childhood asthma and atopy in rural China. Am. J. Respir. Crit. Care Med. 165: 1489–1493.
+Stein, R. T., D. Sherrill, W. J. Morgan, C. J. Holberg, M. Halonen, L. M. Taussig, A. L. Wright, and F. D. Martinez. 1999. Respiratory syncytial virus in early life and risk of wheeze and allergy by age 13 years. Lancet 354: 541–545.
+Wenzel, S. E., R. L. Gibbs, M. V. Lehr, and E. A. F. Simoes. 2002. Respiratory outcomes in high-risk children 7 to 10 years after prophylaxis with respiratory syncytial virus immune globulin. Am. J. Med. 112: 627–633.
+Illi, S., E. von Mutius, S. Lau, R. Bergmann, B. Niggemann, C. Sommerfeld, and U. Wahn. 2001. Early childhood infectious diseases and the development of asthma up to school age: a birth cohort study. BMJ 322: 390–395.
+圖片來源：golf9c9333 於 flickr，CC授權。
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

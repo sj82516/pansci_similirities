@@ -1,0 +1,26 @@
+文 / Hemmings Wu（比利時魯汶大學博士生，醫學背景，專攻功能神經外科／神經科學）
+第三屆諾貝爾生理學／醫學獎，於1903年頒給了丹麥醫師／醫學家Niels Ryberg Finsen。
+他使用集中光治療疾病、特別是針對皮膚結核取得的重大突破，為醫學界開啓了光療（phototherapy or light therapy）這項嶄新的學科。
+1901年出版的《Phototherapy》可說是Finsen生前發表的重要論文的英譯版集大成。其中又以第三章「The Treatment of Lupus Vulgaris by Concentrated Chemical Rays」（集中化學光線治療皮膚結核）影響最深遠。
+注：chemical rays（化學光線）是紫外線的舊稱，而heat rays（熱光線）是紅外線的舊稱。為方便讀者理解，後文將以「紫外線」、「紅外線」稱呼。
+Finsen首先在文章裡提到在他之前的科學家就已經發現光線具有殺菌作用，也開始使用集中光治療皮膚結核，效果卻都有限。在回顧了前人的研究以後，Finsen認為過去所使用的光線強度都不夠。然而，若要提高光線強度同時保持一定光療時間長度，首先必須要克服的障礙是紅外線及近紅光長期照射組織造成的燒傷。針對這個問題，Finsen使用了藍色的硫酸銅氨溶液（ammoniacal solution of sulphate of copper）或甲基藍溶液作為濾鏡，將紅外線及近紅光過濾。其次，雖然太陽光是最好的光源，但畢竟太陽光的利用時間有限，在條件限制下必須用人造光源取代太陽光。經過實驗，Finsen決定使用電弧燈（voltaic arc）作為人造光源，因為白熾燈（incandescent lamps）的紫外線量太低。
+同時，Finsen還做了兩個小實驗。其一，先用上述方法得到的紫外線照射細菌培養皿，證明其確實具有殺菌效果，而且聚光越強，效果越明顯。其二，Finsen意外發現在缺血情況下，紫外線穿透局部組織的效果更好（因為血液會阻擋紫外線）。為此Finsen又發明了以下設備。
+緊接著，Finsen開始了臨床實驗。
+Finsen讓皮膚結核患者每天接受1-2小時的紫外線光療，光療集中在1-3釐米直徑的圓形範圍內，待該患部出現好轉後再將治療區域轉到其他患部如此逐點治療。
+Finsen一共治療了59名患者，其中58名患者臨床症狀都出現明顯緩解：23名患者痊愈，30名患者還在療程中，剩餘6名因為非醫療因素提前放棄接受治療。
+Finsen也指出這個治療方案最大的缺點是十分耗時，有時候需要花3-4個月時間才能見到療效，但Finsen相信未來改良紫外線裝置後，可以縮短療程。
+至此，Finsen證明集中紫外線有良好的殺菌效果，而且應用在治療皮膚病，比如皮膚結核上，有良好療效。「紫外線可以殺菌」是我們現在認為是再普通不過的常識，但在一百多年前，在Finsen完成他的「Finsen light裝置」之前，醫生面對皮膚結核患者始終束手無策。Finsen的重要發明、發現，不僅為皮膚結核和其他皮膚病患者帶來希望，同時也撬開了醫學界光療這扇重要學科的大門。
+從Finsen的實驗過程可以發現，傑出的醫學家，不僅僅是「只懂看病的醫匠」；他們懂物理、化學原理，會自己動手設計治療裝置，踏著前人走過的路去思考未來實驗方向，想方設法去治療尚未找到根治方法的疾病。
+遺憾的是，在Finsen獲得諾貝爾獎後隔年（1904年）就因病逝世，年僅43歲。其實他年輕的時候身體狀況就一直不好，但他並沒有因此而放棄醫學研究。在他逝世之前，他還發表了一篇研究低鹽飲食和健康關係的論文。孜孜不倦、才華洋溢卻英年早逝，相當令人惋惜。
+最後，想在此分享Finsen生前描述自己心路歷程的一段話：
+“My disease has played a very great role for my whole development… The disease was responsible for my starting investigations on light: I suffered from anaemia and tiredness, and since I lived in a house facing the north, I began to believe that I might be helped if I received more sun. I therefore spent as much time as possible in its rays. As an enthusiastic medical man I was of course interested to know what benefit the sun really gave."
+住在靠近北極圈法羅群島（Faroe island）朝北的房子裡，體弱多病的Finsen相信太陽光可以改善自己的健康狀況，才因此開始了光療相關的醫學研究。
+「就是那個光！」不知道讀者以後在沙灘上曬太陽、或者看到紫外線燈管時，是否會想起Finsen和他的研究，而在心中發出如此驚歎呢？
+對Finsen和他的光療研究有興趣的讀者，不妨到這裡去閱讀Finsen《Phototherapy》的原文英譯本。
+此篇回顧原文刊載於此。
+備註：文中圖片作者不具有版權。如有侵犯版權／著作產權之行為，請即刻與作者聯繫。
+I do not own the copyrights to the images in this article. If you believe any content appearing constitutes a copyright infringement of another party’s right, please contact me immediately to notify of this infringement.
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

@@ -1,0 +1,9 @@
+為了收集有關蛋白質、DNA或其他鏈狀生物分子結構的線索，研究人員能以兩種螢光染料加以標記。在被通稱為螢光共振能轉移(fluorescence resonance energy transfer：FRET)中，一種(施體)染料的激發會促使鄰近的(受體)搭檔染料也發出螢光。從而產生的兩色光子激發能透露該生物分子的形狀：受體染料愈接近，其對總螢光的促成作用愈大。
+目前，兩支團隊已結合了單分子解析度的FRET及微流控技術(microfluidics)，來闡明這複雜的生物物理奇觀。
+美國加州斯克里普斯研究所(Scripps Research Institute, California)Ashok Deniz、加州大學聖地牙哥分校(University of California, San Diego)Alex Groisman及同僚們利用了新的微流控設計，來迅速引起經標記蛋白質的摺疊，而後追蹤施體與受體距離的時間變化。他們的實驗揭露了，α-突觸核蛋白(α-synuclein)藉由文中圖示的三個過程，從原本凌亂的狀態摺疊成展開的螺旋狀物。
+由加州大學洛杉磯分校(UCLA)Shimon Weiss及史丹佛大學(Stanford University)Stephen Quake領導的另一支研究人員團隊設計了流動通道(flow channels)、閥門(valves)及泵(pumps)的微尺度網絡，來使高處理量的FRET實驗變得容易進行。該團隊利用了此裝置來研究化學環境對於細菌RNA轉錄的影響。因為，藉由經標記的DNA股與匹配的RNA股混合時的螢光變化，能偵測出RNA轉錄。
+原文網址：Fluorescent bursts reveal how biomolecules fold
+翻譯：peregrine | 本文轉載自PEREGRINE科學點滴
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

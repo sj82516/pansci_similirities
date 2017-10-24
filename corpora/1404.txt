@@ -1,0 +1,10 @@
+當造影、監視或刺激散射介質(scattering medium)中的樣本時，即使最強力的光學顯微鏡及探針也遭到擴散極限(diffusion limit)的阻礙，超出此極限的入射光會失控散射。為了克服上述極限，有些技術將通過樣本時的波陣面(wavefront)集中。其他技術則反複使光定形，來放大目標信號。
+Lihong Wang及美國華盛頓大學(Washington University：位於密蘇里州聖路易斯市)的同僚們業已研發出一種新方法，此法結合了時間倒轉(time reversal)與在生物組織中輕微散射之超音波，將光聚焦於可控制的位置。
+於該團隊的裝置中，由兩個串聯之聲光調變器(acousto-optic modulators)頻移的雷射光進入樣本介質中，在此，漫射光(diffused light)由被調到頻移的超音波進一步調變。於樣本中，上述光與超音波間的交互作用產生了虛點源(virtual point source)。從經調變之漫射光的全像立體攝影術記錄(holographic record)，研究人員們獲得於虛擬源位置產生光學聚焦的時間倒轉軌跡(time-reversed trajectory)。
+對合成生物組織中的物體而言，這個被通稱為「時間倒轉超音波編碼光學聚焦」(time-reversed ultrasonically encoded optical focusing)的新技術，顯著產生了比使用無法聚焦光線之傳統超音波調變光學斷層掃瞄術(ultrasound-modulated optical tomography)所獲得的更高反差(contrast)。
+原文網址：An ultrasonically focused optical probe
+翻譯：peregrine
+本文原發表於PEREGRINE科學點滴
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

@@ -1,0 +1,13 @@
+仙女蜂（fairy wasp, Megaphragma mymaripenne）是全世界最小的昆蟲之一，同時也是世界上最小的飛蟲，體長只有200μm，主要以其他昆蟲的卵做為食物。
+200μm到底多小呢？大約與阿米巴原蟲一樣大小。
+研究仙女蜂的科學家發現，為了要縮到這麼小，使得成年仙女蜂的神經元有95%都沒有核。(1)
+仙女蜂在蛹期的時候仍然跟其他的昆蟲一樣，有大約7400個神經元，而且每個都有核(2)；但是在蛹的最後一個發育階段時，大部分(~7000)的神經元細胞本體(neuronal cell bodies)都分解了，使得成年的仙女蜂只有339-372個神經元有核，其他大約7000個神經元都不具有核。
+雖然只有這麼少的神經元有核，不過仙女蜂還是能夠飛行，也能找到寄主。
+這樣小的飛蟲，是否活不了多久呢？筆者查了一下資料，發現它大概可以活21天(3)。除此之外，由於它主要是寄生在薊馬（thrips, 一種害蟲）(4)，所以也被拿來防治薊馬的蟲害。
+1. Science Now. 2011/11/18. ScienceShot: Amoeba-Sized Insect Is Missing Some Pieces – ScienceNOW
+2. Alexey A. Polilov. 2011. The smallest insects evolve anucleate neurons. ArthropodStructure & Development. In Press, doi:10.1016/j.asd.2011.09.001
+3. J. A. McMurtry and H. G. Johnson. 1963. PROGRESS REPORT ON THE INTRODUCTION OF A THRIPS PARASITE FROM THE WEST INDIES. California Avocado Society 1963 Yearbook 47: 48-51
+4. UC IPM online. 2007. How to Manage Pests Pests in Gardens and Landscapes: Thrips
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

@@ -1,0 +1,27 @@
+近半個月來，國內最大的新聞，當屬衛生單位發現：有黑心商人將鄰苯二甲酸二（2-乙基己基）酯（DEHP或BEHP，注一）這種「塑化劑」加入合法的食品添加物「起雲劑」中，再批售給下游的飲料、食品或製藥公司。迄今已查出有兩百七十多家廠商、九百多件產品遭到汙染，其規模之大，可謂空前；再加上主犯供稱這種做法已行之多年，且同行都這麼做，一時間風聲鶴唳，人人自危。
+將歸入第四類疑似毒化物的塑化劑加入食品原料（注二），讓數以百萬計的不知情大眾經常服用，絕對是傷天害理的勾當，主犯應受法律嚴厲制裁。只不過消息發布後，許多記者報導及專家發言，都有語不驚人死不休之嫌，譬如說DEHP的毒性是之前三聚氰胺的3.5或20倍，男孩的陰莖會變短，甚至有人罹患大腸癌，也說是由服用了含DEHP的酵素粉造成。
+懂得一些藥理及毒理學的人都知道：毒性取決於劑量（注三）；就算是水，短時間內飲用過量也會對身體造成傷害。以造成實驗鼠半數死亡的口服劑量（LD50）為毒性指標，DEHP是每公斤體重需30克，三聚氰胺則是3克（LD50數字越小越毒），所以DEHP比三聚氰胺還毒的說法顯然有誤（注四）。至於長期給予大鼠高劑量的DEHP（147-789 mg/kg BW/day, 104週）確實會引起肝癌，但其作用機制似乎不適用於人，故此目前DEHP並不歸類成致癌物質（注五）。
+DEHP引起最大的關切，是它屬於俗稱「環境荷爾蒙」的「內分泌干擾物質」（endocrine disrupting chemicals, EDC），也就是說能影響荷爾蒙正常運作的物質。荷爾蒙是由人體內分泌系統的腺體組織所分泌，種類繁多，並主管生長、代謝、恆定與生殖等重要功能，因此EDC的潛在影響力不容小觑。
+然而EDC一向不是內分泌研究的主流，而屬於藥理毒理及環境衛生的課題，其理由是絕大多數的EDC（包括DEHP）與體內的天然荷爾蒙相比，作用都太低（千分之一或更小），而不具生理意義；只有對水生與兩棲動物以及發育中的胚胎與幼兒，影響可能較大（前兩者是隨時浸泡在含DEHP的水裡，後兩者是體型小且發育未全）。美國內分泌學會遲至2009年才發表立場聲明及論文回顧（注六），基本上是提醒注意，並要求聯邦政府給予更多的經費支援。
+如前所述，之前的動物實驗多使用超高的藥理劑量，唯一以人為對象的，是1999-2002年間由美國三所大學附屬醫院合作進行的相關性研究（注七），以懷孕婦女尿中DEHP代謝物質含量，與男嬰出生後五至十六個月的外生殖器發育情形做相關分析，而得出DEHP量越高，肛門至陰莖距離越短的結果（並不代表不正常）。只不過該研究可用樣本數太少（n=85），可能出現的誤差太多，同時就算有相關也不代表互為因果。因此該研究引發質疑是必然的結果（注八），國內專家不應該以此來嚇唬國人。
+所謂危機即轉機，此次不幸事件如能教育國人在飲食上更小心並棄絕可疑的保健產品（注九），食品製造商與衛生單位對品管更加嚴謹，也算塞翁失馬。對醫藥研究人員來說，更是難得的契機，或能一舉解決DEHP與男嬰發育的爭議，這才是國家衛生研究院應該做的事，且時機稍縱即逝、刻不容緩（注十）。
+———————————————————-
+注一：DEHP與BEHP是di(2-ethylhexyl)phthalate與bis(2-ethylhexyl)phthalate的縮寫，國內報導都有人使用（di與bis都是「二」），不知情者或以為是兩種不同化合物。DEHP還有一個同分異構物：鄰苯二甲酸二辛酯di(2-octyl)phthalate ，縮寫為DOP。
+注二：環保署毒性化學物質相關一覽表裡。DEHP編號68-01，列第四類（疑似毒化物）；有意思的是，編號68-02的DOP卻列第一類（難分解物質）。
+注三：有本毒理學的科普讀物即以此為名：Frank, P. and Ottoboni, M. A. (2011). The Dose Makes the Poison: A Plain-Language Guide to Toxicology (3rd ed.). Hoboken, NJ: Wiley.
+注四：資料取自Wikipedia: http://en.wikipedia.org/wiki/Bis%282-ethylhexyl%29_phthalate and http://en.wikipedia.org/wiki/Melamine.
+注五：資料取自歐盟風險評估報告（2008）：European Union Risk Assessment Report: CAS No: 117-81-7, EINECS No: 204-211-0, bis(2-ethylhexyl)phthalate (DEHP). http://ecb.jrc.ec.europa.eu/documents/Existing-Chemicals/RISK_ASSESSMENT/REPORT/dehpreport042.pdf
+http://ecb.jrc.ec.europa.eu/documents/Existing-Chemicals/RISK_ASSESSMENT/SUMMARY/dehpsum042.pdf
+注六：資料取自：The Endocrine Society Position Statement (2009). Endocrine disrupting chemicals. http://www.endo-society.org/advocacy/policy/upload/Endocrine-Disrupting-Chemicals-Position-Statement.pdf 及
+http://www.endo-society.org/journals/scientificstatements/upload/edc_scientific_statement.pdf
+注七：Swan, S. H., Main, K. M., Liu, F., Stewart, S. L., Kruse, R. L., Calafat, A. M., Mao, C. S., Redmon, B., Terand, C. L., Sullivan, S., Teague, J. L., and the Study for Future Families Research Team. (2005). Decrease in anogenital distance among male infants with prenatal phthalate exposure. Environmental Health Perspectives, 113: 1056-1061.
+注八：以下是三篇是針對Swan et al. (2005) 文章提出的質疑：
+1. Sharpe, R. M. (2005). Phthalate exposure during pregnancy and lower anogenital index in boys: Wider implications for the general population? Environmental Health Perspectives, 113: A504-A505.
+2. McEwen, G. N. Jr. (2006) Validity of anogenital distance as a marker of in utero phthalate exposure. Environmental Health Perspectives, 114: A19–A20.
+3. Weiss, B. (2006). Anogenital distance: Defining “normal”. Environmental Health Perspectives, 114: A399.
+注九：從衛生署食品藥物管理局公布的污染食品名單可以看出國人飲食習慣的偏差；飲料類暫且不提，各式各樣打著健康名義的粉劑，顯然都是騙錢的玩意，趁此機會清掃一次也不是壞事。
+注十：國內學美國國家衛生院（NIH）成立的國家衛生研究院，其定位與功能一向不彰，夾在中研院與國科會之間，而為四不像。此次國衛院院長於第一時間跳出來指責衛生署，並嚇唬國人，卻不想想自己的單位裡一堆人坐領高薪又做了些什麼，讓人瞧不起。
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

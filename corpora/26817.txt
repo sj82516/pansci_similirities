@@ -1,0 +1,195 @@
+相片/圖片檔 *.jpg 裡面， 其實內含了很多文字資訊， 例如相片的標題、 一段文字描述、 一組標籤、 … 等等。 這些資訊稱為 「中繼資料」 （metadata）。 用 exiftool 命令 可以列出來。 或者用 geeqie 看圖軟體的 「檢視」 =&gt； 「exif window」 也可以查看。 這些文字資訊其實混合了 IIM （一般稱為 IPTC）、 XMP、 EXIF 等等多種標準； 裡面又有些某些欄位彼此重複。 到底這些簡寫之間有什關係？ 重複的欄位有什麼作用？
+IPTC 是新聞界的一個國際組織。 他們在 1990-1997 年之間製定了一個標準 IIM （Information Interchange Model）， 裡面定義了相片（文件）的標題、 一段文字描述、 一組分類用的標籤、 攝影師（文件作者）、 著作權、 … 等等許多 描述多媒體用的文字資訊 欄位。 原本是用來傳遞新聞相關資料用的； 後來因為被大家拿來描述相片而廣泛使用。 一般軟體手冊提到 「IPTC 某欄位」 時， 其實指的多半是這個舊版的 「IIM 某欄位」。 指令 exiftool -list -IPTC：All 可以列出 exiftool 所支援的 IIM 欄位清單。
+隨著 XML 格式的興起， IPTC 與 Adobe 合作， 將 IIM 重新改用 XML 的格式呈現， 稱為 XMP （Extensible Metadata Platform）。 [ IIM/XMP 4.1 規格書] 指令 exiftool -list -XMP：All 可以列出 exiftool 所支援的 XMP 欄位清單。
+另一方面， 日本電子工業發展協會在 1996-2002 年之間， 為了將文字資訊內嵌到數位相片裡面， 製定了一個標準 EXIF （Exchangeable image file format）， 裡面包含相機廠牌/型號/儀器特性、 拍照當時相機的光圈 （ApertureValue）、 快門 （ShutterSpeedValue）、 閃光燈 （Flash）、 … 等等技術資訊。 這些資訊多半是拍照當時相機自動產生的。 [ EXIF 2.1 與 2.2 規格書； 欄位清單] 指令 exiftool -list -EXIF：All 可以列出 exiftool 所支援的 EXIF 欄位清單。
+因為 IPTC 設計 XMP 的目的， 就是要取代 舊的 IIM， 所以兩者的欄位之間有對應關係。 至於 EXIF 的欄位則偏向光學技術辭彙， 所以與前二者沒有太多交集。
+一張 jpg 圖片裡面， 可能會同時出現以上三組資料。 超強工具箱 exiftool 可以幫你增/刪/查/改 jpg 圖檔裡面的 IIM、 XMP、 EXIF 以及其他許多組文字資料。 這意思就好像是說你在 SEVEN/家樂福的店裡面， 不只可以買到統一自家/家樂福自家的產品， 也可以買到其他供應商的商品一樣。 不過在 exiftool 的文件及輸入輸出當中， 都是用 「IPTC」 在稱呼 IIM。 事實上多數的軟體和文章都如此混用這兩個名字； 這也是為什麼我花了整個週末才弄懂這些簡稱之間的關係。 就好像： 星戰迷們談到 「星際大戰」 時， 可能指一系列的六部電影； 但也可能是指 （最早上演的） 第四集 「曙光乍現」； 但是非星戰迷們如果聽到 「曙光乍現」 （英文片名： a new hope） 可能完全不知道是什麼東東， 於是星戰迷們乾脆就用 「星際大戰」 這個名字來跟其他人溝通。
+舊的 IIM 標準預設只支援 ascii 碼。 如果希望存進相片的中文資料被正確處理， 就必須把 Coded Character Set 欄位設定成 utf8： exiftool -codedcharacterset=utf8 elephant.jpg 從此以後任何軟體看到這張 elephant.jpg， 理論上都應該要以 utf8 編碼解釋其中的 IPTC 文字欄位。
+新的 XMP 標準支援 utf8 萬國碼， 也就是說中文都沒問題。 其中某些欄位 (下表打 * 號者) 甚至支援 「同時儲存多國語言」 （不必是完全對等的翻譯）。 例如一張相片可以有中文版的 title-zh-TW、 英文版的 title-en、 西班牙文版的 title-es 三個標題。 常見檔案格式當中， 只有 tiff、 jpg、 png、 gif、 pdf 等等格式支援內嵌文字欄位。 所以 XMP 還定義了 sidecar （「邊車」） — 一個外加的文字檔， 用來幫其他檔案格式 「運送」 圖片相關的文字資訊。
+可惜並非所有軟體都支援新的 XMP 標準。 例如 相片網站架站軟體 zenphoto 與 piwigo預設就只支援 IIM 的 “Keywords" （就是標籤/tag 啦） 而不支援 XMP 的 “Subject" 欄位。 (我找到 zenphoto 和 piwigo 的 XMP 教學文; 但沒試出來。 見下表連結。) 另一方面， 超強超好用、 跨作業平臺的單機版相片整理工具 digikam， 它對舊版 IIM 的 utf8 支援就不太行， 即使設定了 -codedcharacterset=utf8 還是會產生亂碼。 所以較好的相片處理流程可能是：
+用 digikam 在本機處理， 速度快、 介面友善。
+用 exiftool 把 “Subject" 欄位拷貝到 “Keywords" 欄位， 並且指定日後都以 utf8 編碼解讀這張/這些相片的資料： exiftool -Keywords'&lt；'Subject -codedcharacterset=utf8 photos/
+上傳至 zenphoto 或 piwigo 之後， 只做簡單的整理， 不再修改標籤。
+下面兩個表格分別是幾套相片軟體對 IIM “Keywords" 與 XMP “Subject" 的支援, 以及 IIM 與 XMP 欄位對照簡單摘要。 後者摘錄自 IPTC Core XMP Schema。 其中黃色部分是相片整理者最有可能有興趣的三個欄位: 標題、 標籤、 一段文字描述。
+IIM “Keywords"
+XMP “Subject"
+geeqie 1.0
+ok
+ok
+digikam 2.8.0
+中文變亂碼
+ok
+zenphoto 1.4.3
+ok
+啟動套件:
+xmpMetadata
+piwigo 2.4.3
+ok
+安裝並啟動套件:
+Advanced Metadata
+欄位用途
+軟體顯示
+IPTC 名稱
+XMP 名稱
+IIM 代號
+IIM 名稱
+城市
+City
+City
+photoshop:
+City
+2:90
+City
+著作權
+Copyright Notice
+CopyrightNotice
+dc:rights *
+2:116
+Copyright Notice
+國家
+Country
+Country
+photoshop:
+Country
+2:101
+Country/Primary Location Name (64b)
+國家代碼
+ISO Country Code
+CountryCode
+Iptc4xmpCore:
+CountryCode
+2:100
+Country/Primary Location Code
+原作者
+Creator
+Creator
+dc:creator *
+2:80
+By-line
+原作者聯絡資訊
+Creator’s Contact info:
+CreatorContactInfo
+Iptc4xmpCore:
+CreatorContactInfo
+–
+–
+原作者職稱
+Creator’s Jobtitle
+CreatorJobtitle
+photoshop:
+AuthorsPosition
+2:85
+By-line Title
+創作日期
+Date Created
+DateCreated
+photoshop:
+DateCreated
+2:55
+Date Created
+詳細描述
+Caption/ Description
+Description
+dc:description *
+2:120
+Caption/Abstract
+詳細描述的撰寫人
+Caption/ Description writer
+DescriptionWriter
+photoshop:
+CaptionWriter
+2:122
+Writer/Editor
+新聞頭條
+Headline
+Headline
+photoshop:
+Headline
+2:105
+Headline
+操作指示
+Instructions
+Instructions
+photoshop:
+Instructions
+2:40
+Special Instruction
+新聞類別
+Intellectual genre
+IntellectualGenre
+Iptc4xmpCore:
+IntellectualGenre
+2:04
+Object Attribute Reference
+工作流程代號
+Job Identifier
+JobID
+photoshop:
+TransmissionReference
+2:103
+Original Transmission Reference (32b)
+標籤
+Keywords
+Keywords
+dc:subject
+2:25
+Keywords
+地點
+Location
+Location
+Iptc4xmpCore:
+Location
+2:92
+Sublocation
+提供者
+Provider
+Provider
+photoshop:
+Credit
+2:110
+Credit
+州/省
+Province/State
+Province-State
+photoshop:
+State
+2:95
+Province/State
+授權聲明
+Rights Usage Terms
+RightsUsageTerms
+xmpRights:UsageTerms
+–
+–
+場景
+IPTC Scene
+Scene
+Iptc4xmpCore:
+Scene
+–
+–
+來源
+Source
+Source
+photoshop:
+Source
+2:115
+Source
+主題代碼
+IPTC Subject Code
+SubjectCode
+Iptc4xmpCore:
+SubjectCode
+2:12
+Subject Reference
+標題
+Title
+Title
+dc:title *
+2:05 舊
+Object Name (64b)
+（本文原發表於 玩具烏托邦）
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+洪朝貴

@@ -1,0 +1,9 @@
+最小規模的地磁場(geomagnetic field)測定被用來探尋沉船及富含礦物的地質結構。而大規模的測定能探索地球核心的諸多屬性。長度數十到數百公里的地磁圖能產生有關地球外地幔(Earth’s outer mantle)中化學動態(chemical dynamics)及離子流(ionic currents)影響海洋環流的線索。
+為了避免以地面為基地的電磁干擾，通常地磁儀被安置於繞軌運行的衛星上。不過，此些被零星部署的衛星，成本相當高。目前，由美國賓州巴克內爾大學(Bucknell Univeristy)James Higbie、歐洲南方天文台(European Southern Observatory)Domenico Bonaccini Calia及加州大學柏克萊分校(University of California, Berkeley)Dmitry Budker領導的國際科學家團隊業已提出，利用來自陸基雷射射束與上空中間層(mesosphere：離地表約90公里)鈉原子交互作用的低成本地對空系統。
+該團隊的系統能利用，藉由激發中間層的鈉，來為光學望遠鏡產生人造星星之高功率雷射現有及擴充的基礎設施。如圖示，光學性泵激雷射(pumped laser)會旋轉極化鈉原子，之後陸基望遠鏡能測定螢光性放射強度(fluorescence intensity)。此強度取決於此些原子在磁場中的進動頻率(precession frequency)。進動是指旋轉體轉軸方位的改變。
+此些研究人員預估，此類系統能達到次奈特斯拉的敏感度(subnanotesla sensitivity)，且可能引領出，形成不斷繪製中間層磁場圖並進行監測的全球網絡。特斯拉(tesla)是國際單位制的磁通量密度單位。
+原文網址：Building an atomic geomagnetometer from the ground up
+翻譯：peregrine | 本文轉載自PEREGRINE科學點滴
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

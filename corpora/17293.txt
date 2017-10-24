@@ -1,0 +1,16 @@
+加拿大多倫多大學（University of Toronto）、美國哈佛大學（Harvard University）、羅格斯大學（Rutgers University）的研究人員已經找到一種方法來確定特定冰層留下的海平面痕跡（fingerprint），也許能更精確地估計其對全球海平面上升的影響。
+由於地球的氣候暖化，融化的冰層（ice sheet）產生明顯且極度不一致的海平面變化模式，有些海平面下降到接近融化的冰層，然而在遠處的海平面卻逐步上升。每個冰層的模式都是獨一無二的，此被稱為海平面痕跡。
+研究作者多倫多大學物理系博士候選人 Carling Hay 表示，「我們的發現了一種新的方法來區分海平面歷史記錄中的各種海平面痕跡，如海浪、潮汐、海洋環流的變化、海洋的熱膨脹等過程所造成的海平面痕跡。」這項研究發表於美國國家科學院院刊（Proceedings of the National Academy of Sciences, PNAS）。
+「這確實可能讓我們估計每個不同冰層對全球海平面上升的貢獻。」
+世界各地的科學家正在試圖估計目前海平面上升的速率及冰層融化的速率，但很少能做到結合這兩個問題，並同時回答這些問題。
+Hay 與哈佛大學的 Jerry Mitrovica、Eric Morow、羅格斯大學的 Robert E. Kopp 找出之前沒有被應用到這個問題的統計技術，並利用在工程、經濟、氣象學常用的資料分析技術來開發新的方法。然後研究人員透過應用這種方法於合成資料集（synthetic data sets）來進行測試及改良。也就是說，合成資料集是以等量噪音作為真實資料，且已知融化訊號（melting signals）的資料集。這種測試對於實際海平面記錄的方法應用提供重要的導引。
+Hay 表示，「我們現在正將我們的方法應用於海平面歷史記錄，以提供在整個 20 世紀格陵蘭島（Greenland）及南極西部冰層的總海平面上升程度及冰層融化速度的新估計。初步結果顯示在後半世紀，隨著氣溫的上升，全球平均海平面上升加速的有趣證據。一旦我們完成歷史記錄的研究，下一步將納入衛星遙測海平面變化。」
+研究結果在題為「利用資料同化技術來估計全球海平面上升的原因（Estimating the sources of global sea level rise with data assimilation techniques）」的論文中公布。
+這項研究的經費來自於加拿大高等研究所（Canadian Institute for Advanced Research）、哈佛大學、美國能源部（US Department of Energy）的美國科學促進科學協會（American Association for the Advancement of Science Fellowship Program）獎助計劃。
+作者：駐加拿大台北經濟文化代表處科技組
+資料來源：Geophysicists develop new method to identify “sea level fingerprints"—University of Toronto [2012-04-24]
+轉載自國科會國際合作簡訊網
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

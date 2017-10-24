@@ -1,0 +1,27 @@
+文 / 作者：陳若翎（美國德州萊斯大學心理學博士）
+在香水櫃前，試聞著一件件樣品的同時，心裡不禁想著：「這味道聞起來像茉莉花……這有柑橘的味道……」
+排了一個小時的隊，終於吃到了人氣拉麵，先嚐了一口濃郁的湯頭，再吃一口彈牙的手感麵條，忍不住讚嘆：「這拉麵的味道真好！」
+在這兩個例子中，同樣都在說「味道」，但是是在說同一回事嗎？
+首先，聞到氣味的方式有兩種，一種是從鼻腔，稱為鼻前通路 (orthonasal olfaction)，另一種則是從口腔和咽頭，稱為鼻後通路 (retronasal olfaction)。前者主要是偵測外界的氣味，像是第一個例子中聞到的香水味就是透過鼻前通路而被感覺到；後者則主要是偵測嘴巴裡的氣味，嘴巴裡的食物氣味就是經由鼻後通路而被聞到。 課堂上演示鼻後通路最常見的方式就是，把鼻子捏住，然後將食物放進嘴巴裡嚼一嚼，我們只會感受到酸、甜、苦、鹹或鮮味這些基本的味覺感受，但是一旦把捏住鼻子的手放開，我們可以立刻感受到豐富的食物氣味，這也是為什麼感冒而鼻子堵塞的時候， 嘴裡的食物顯得淡而無味的原因。
+當氣味經由鼻後通路而來，我們常會誤以為氣味是一種舌頭嚐到而不是鼻子聞到的感覺，因為氣味的來源在嘴巴裡 (Lim & Johnson, 2011; Murphy & Cain, 1980; Rozin, 1982)；我們也常把鼻子和舌頭的感覺「混為一談」，明明「聞」是鼻子的動作，「甜」是味覺，但我們卻會說：「這味道甜甜的。」所以，經驗已經告訴我們嗅覺和味覺關係密切。
+行為研究也顯示了兩者密切的關係， 讓受試者喝櫻桃果汁或吃香草卡式達醬，加的糖愈多，受試者覺得食物中的櫻桃或香草氣味愈濃郁 (Green, Nachtigal, Hammond, & Lim, 2012)；比起草莓氣味，火腿氣味讓受試者覺得嚐到的口味更鹹 (Seo et al., 2011)；所以透過鼻後通路而來的氣味，若和嚐到的口味一致（例：香草氣味-甜、檸檬氣味-酸、醬油氣味-鹹、咖啡氣味-苦、雞肉氣味-鮮），兩者會彼此增強感覺的強度。
+腦電波誘發電位 (event-related potentials, ERP) 也顯示大腦處理一致的鼻後通路氣味和口味訊息（例：香草氣味-甜）的速度比不一致（例：香草氣味-酸）的時候快 (Welge-Lüssen, Husner, Wolfensberger, & Hummel, 2009)。單獨接受嗅覺或味覺刺激都會激發腦島 (insula)、前額腦區底部 (orbitofrontal cortex, OFC)和前扣帶皮質 (anterior cingulate cortex, ACC)的活動，當一致的嗅覺和味覺刺激一起出現的時候，這些腦區的神經活動也會更活躍 (Small et al., 2004)。
+然而，品嚐食物的時候，所謂的「味道」，雖然主要是依賴嗅覺和味覺，但其實還結合了其他感官刺激，像是視覺、聽覺、觸覺等等，而形成「味道系統」(flavor system) (Shepherd, 2006; Small et al., 2004)。
+想像一下自己坐在放著慵懶爵士樂的法式小酒館裡，不時啜飲一口酒杯裡的紅酒；再想像一下，喝著同樣的紅酒，不過這回是坐在車水馬龍的馬路邊，紅酒還是裝在紙杯裡，這紅酒的滋味想必沒有前面的好吧！研究結果也證明，當一杯白酒被無味的紅色色素染成了紅酒的樣貌，即使是法國波爾多大學品酒系 (Faculty of Oenology, University of Bordeaux) 的學生在品嚐這些「紅色的白酒」後，也多使用描述紅酒的辭彙來描述這些「紅色的白酒」(Morrot, Brochet, & Dubourdieu, 2001)。相較於安靜的情境，噪音可能會讓受試者分心，所以受試者覺得洋芋片沒有那麼鹹，且愈討厭噪音的人，也會覺得在噪音情境下吃的食物愈不好吃 (Woods et al., 2011)。研究者準備了具有同樣熱量但是不同濃稠度（流質、半流質、半固態、固態）的卡式達醬，受試者覺得愈濃稠的卡式達醬會帶來愈多的飽足感、卡式達的氣味愈濃且甜度愈低，不過這會如何影響飲食行為還需要再進一步的研究 (Hogenkamp, Stafleu, Mars, Brunstrom, & De Graaf, 2011)。
+因此，所謂的「味道」不管是指外界的氣味，或是嘴裡的氣味，只要是指氣味，其實都屬於嗅覺，所以應該是「聞」到，只是聞的方式可以是經由鼻前通道，或是經由鼻後通道。但是當我們在評論食物的「味道」時，這已經不只是「聞」到的氣味，也不只是「嚐」到的口味而已，還包括了「看」到的畫面、「聽」到的聲音和「接觸」到的口感等等各種感覺結合成的綜合感受，就像欣賞一支交響樂團的演出一樣。
+參考文獻
+Green, B. G., Nachtigal, D., Hammond, S., & Lim, J. (2012). Enhancement of retronasal odors by taste. Chem Senses, 37(1), 77–86. doi:10.1093/chemse/bjr068
+Hogenkamp, P. S., Stafleu, A., Mars, M., Brunstrom, J. M., & De Graaf, C. (2011). Texture, not flavor, determines expected satiation of dairy products. Appetite, 57(3), 635–641. doi:10.1016/j.appet.2011.08.008
+Lim, J., & Johnson, M. B. (2011). Potential mechanisms of retronasal odor referral to the mouth. Chem Senses, 36(3), 283–289.
+Morrot, G., Brochet, F., & Dubourdieu, D. (2001). The color of odors. Brain Lang, 79(2), 309–320. doi:10.1006/brln.2001.2493
+Murphy, C., & Cain, W. S. (1980). Taste and olfaction: independence vs interaction. Physiol Behav, 24(3), 601–605.
+Rozin, P. (1982). “Taste-smell confusions” and the duality of the olfactory sense. Percept Psychophys, 31(4), 397–401. doi:10.3758/BF03202667
+Seo, H.-S., Iannilli, E., Hummel, C., Okazaki, Y., Buschhüter, D., Gerber, J. C., Krammer, G. E., et al. (2011). A salty-congruent odor enhances saltiness: Functional magnetic resonance imaging study. Hum Brain Mapp, 1–15. doi:10.1002/hbm.21414
+Shepherd, G. M. (2006). Smell images and the flavour system in the human brain. Nature, 444(7117), 316–21. doi:10.1038/nature05405
+Small, D. M., Voss, J., Mak, Y. E., Simmons, K. B., Parrish, T. B., & Gitelman, D. R. (2004). Experience-dependent neural integration of taste and smell in the human brain. J Neurophysiol, 92(3), 1892–903. doi:10.1152/jn.00050.2004
+Welge-Lüssen, A., Husner, A., Wolfensberger, M., & Hummel, T. (2009). Influence of simultaneous gustatory stimuli on orthonasal and retronasal olfaction. Neurosci Lett, 454(2), 124–8. doi:10.1016/j.neulet.2009.03.002
+Woods, A. T., Poliakoff, E., Lloyd, D. M., Kuenzel, J., Hodson, R., Gonda, H., Batchelor, J., et al. (2011). Effect of background noise on food perception. Food Qual Prefer, 22(1), 42–47. doi:10.1016/j.foodqual.2010.07.003
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

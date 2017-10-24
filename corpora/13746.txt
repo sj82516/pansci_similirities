@@ -1,0 +1,15 @@
+美國 Virginia（維吉尼亞）大學與 North Carolina（北卡羅萊納）大學發現一種先前未定義的小型環狀 DNA 分子，出現在老鼠與人類細胞內的染色體外。這種環狀 DNA 的長度是 200 – 400 個鹼基對，而且沒有重複序列。這種新型染色體外環狀 DNA（extra-chromosomal circular DNA，eccDNA）已被封為 microDNA。不像其他形態的 eccDNA，在 microDNA 中，鹼基對的順序沒有重複，且常被發現與特殊基因有關。這指出它們可能是因染色體 DNA 的小段微缺失（micro-deletions）而產生。
+Anindya Dutta 教授等人將取自老鼠腦組織樣本的 DNA 純化，消化（digested）掉線性 DNA（linear DNA，那由數百萬個個鹼基對構成），僅留下環狀 DNA 片段，接著使用超高輸出量定序方式定序。環狀物由一套新的生物資訊程式確認。
+他們發現環狀物的大小與 DNA 上核小體（nucleosome，染色體的次單位）的長度約略相同。環狀 DNA 的嬌小尺寸令他們感到驚訝，因為染色體外 DNA 會更大。他們的環狀 DNA 亦與先前已知的環狀物，稱為多分散 DNA（polydispersed DNA）不同，因為後者經常包含重複的鹼基對序列。另一項有趣的發現是，這些環狀物富含 GC（鳥嘌呤–胞嘧啶）鹼基對以及相對較少的 AT（腺嘌呤–胸腺嘧啶）。研究者在其他老鼠組織與人類細胞上重複他們的實驗。
+該團隊亦將環狀 DNA 與原本被消化掉的線性 DNA 比較，同時發現他們能使 microDNA 與線性 DNA 上的微缺失相配。該結果指出在組織細胞中發現的 DNA 或許會展現比先前所以為還要更多的變異，而這意味著，若微缺失出現在其他組織的 DNA 中，但血液細胞（那常用於定序）沒有，則血液細胞中的 DNA 定序也許會給出誤導性（misleading）結果。在自閉症或精神分裂症的基因定序例子中，這也許很重要。腦組織中不正常的基因作用可能會引發這些疾病。許多癌症也是由不正常的基因作用所引起；在此例中，腫瘤抑制基因，以及血液細胞 DNA 的定序也許會給出誤導性結果。
+研究者指出，microDNA 也許會在 DNA 複製或 DNA 修復過程中形成，但還需要更多研究才能確定牽涉其中的確切過程。該團隊接下來要轉向研究癌症基因組。
+這篇論文發表在 Science 期刊中。
+原始文獻:Yoshiyuki Shibata, Pankaj Kumar, Ryan Layer, Smaranda Willcox,
+Jeffrey R. Gagan, Jack D. Griffith, Anindya Dutta.
+Science, Published Online March 8 2012
+doi: 10.1126/science.1213307
+資料來源:PHYSORG:New type of extra-chromosomal DNA discovered[March 9, 2012]
+轉載自only-perception
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

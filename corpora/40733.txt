@@ -1,0 +1,220 @@
+李銘杰（臺大職衛生所博研生／政大法科所碩研生）
+近兩個月（2013 年 3、4 月）來，新型禽流感 H7N9 疫情在中國蔓延，再度引起我國政府與民眾高度重視。然而遍尋國內禽流感相關文章與論文，發現少有文章針對禽流感之歷史淵源進行介紹。本文藉由此次機會，期望能帶領讀者瞭解禽流感之歷史脈絡。
+禽流感之歷史脈絡
+根據現有的文獻記載，早在1878年即有高病原性禽流感（highly pathogenic avian inﬂuenza）爆發的記錄。這種禽類中流行的疾病，因具有高死亡率而引發人們注意，流行的地點以意大利和一些歐洲國家為主 [1]。當時的專家對於這種禽類間流行的疾病並不了解，先將其稱為雞瘟（fowl plague），後來才確認為高病原性禽流感。
+根據世界動物衛生組織（Office International des Epizooties, OIE）定義，高病原性禽流感係指將禽流感病毒接種至8隻4到8週大的雞隻，可致使6隻以上的雞隻死亡 [2]。由於高病原性禽流感之症狀與當時另一種禽類流行病「家禽霍亂」（fowl cholera）類似，特別是「急性敗血病型的家禽霍亂」（acute septicemic form of fowl cholera）也常伴隨著高死亡率，使得雞瘟和家禽霍亂容易混淆。
+直到1880年，科學家才有能力區分雞瘟 和家禽霍亂之差異 [3]。1894年至1901年間，意大利持續有高病原性禽流感疫情爆發，並隨著販賣家禽的商人傳至奧地利東部以及德國，隨後又傳至比利時及法國 [4,5]。高病原性禽流感持續在意大利和歐洲中部流行，直到1930年代中期才得以平息 [6]。
+但要注意的是，同一時期禽類中也流行新城 病（Newcastle disease），當時的診斷技術還不夠精確，故不排除有些新城病疫情被誤認成是高病原性禽流感 [7]。直到1900年代中期，歐洲、俄羅斯、北美、南美、中東、非洲和亞洲皆曾傳出高病原性禽流感流行的案例。1936年更證實了雞胚蛋 （embryonated chicken eggs）也可傳播禽流感病毒 [8]。
+1958年，世界衛生組織（World Health Organization）開始推動禽流感病毒之相關研究 [9]。最初禽流感病毒是根據病毒的物種起源（species of origin）、核蛋白（ribonucleoprotein）、血凝素（hemagglutinin）以及神經氨酸酶（neuraminidase）之 血清反應（serologicalreactivity）進行命名。1980年後則根據免疫學和生化學上的新發現重新設計了命名系統，以病毒套膜上的血凝素及神經氨酸酶的抗原性進行分類（參考表一）[10,11]。
+表一、禽流感病毒命名系統
+血凝素（Hemagglutinin）
+神經氨酸酶（Neuraminidase）
+1980之前
+1980至今
+1980之前
+1980至今
+H0,H1, H swine 1
+H1
+N1
+N1
+H2
+H2
+N2
+N2
+H3, H equine 2, H avian 7
+H3
+N avian 1, N avian 3
+N3
+H avian 4
+H4
+N avian1, N avian 3
+N3
+H avian 4
+H4
+N avian 4
+N4
+H avian 5
+H5
+N avian 5
+N5
+H avian 6
+H6
+N avian 1
+N6
+H avian 1, H equine 1
+H7
+N equine 1
+N7
+H avian 8
+H8
+N equine 2
+N8
+H avian 9
+H9
+N avian 6
+N9
+H avian 2
+H10
+H avian 3
+H11
+H avian 10
+H12
+H13
+H14
+H15
+H16
+參考自: Lupiani B, Reddy SM. The history of avian influenza. Comp Immunol Microbiol Infect Dis. 2009 Jul;32(4):311-23. 重新製表
+過去重大高病原性禽流感疫情之歷史紀錄
+高病原性禽流感可造成禽類大量死亡，嚴重衝擊人們的經濟活動，對禽類和人類而言皆有其重要性。筆者將國外文獻整理之大規模高病原性禽流感事件重新製 成表二，若對相關細節有興趣的讀者可參考原始論文，筆者在此不一一贅述。值得注意的是，從1995年之後禽流感疫情影響的範圍有增大的趨勢。
+介紹完禽流感的歷史淵源以及幾個歷史上重大的高病原性禽流感疫情後，接下來的系列專題將會帶讀者認識禽流感之流行病學議題以及監測方式，並分析禽流感對於生態以及經濟的衝擊，還請讀者不要錯過。
+表二、重大高病原性禽流感事件簿
+被感染禽類
+地區
+年度
+類型
+受影響的禽類數目
+雞
+蘇格蘭
+1959
+H5N1
+無資料
+火雞
+英國
+1963
+H7N3
+29,000
+火雞
+加拿大安大略省
+1966
+H5N9
+8,000
+雞
+維多利亞
+1976
+H7N7
+58,000
+雞
+德國
+1979
+H7N7
+600,000
+火雞
+英國
+1979
+H7N7
+9,000
+雞
+賓夕法尼亞
+1983
+H5N2
+超過17,000,000
+火雞
+愛爾蘭
+1983
+H5N8
+307,000
+雞
+維多利亞
+1985
+H7N7
+240,000
+火雞
+英國
+1991
+H5N1
+8,0000
+雞
+維多利亞
+1992
+H7N3
+18,000
+雞
+昆士蘭
+1994
+H7N3
+22,000
+雞
+墨西哥
+1994
+H5N2
+無資料
+雞
+巴基斯坦
+1994
+H7N3
+超過6,000,000
+雞/鵝
+廣東/香港/
+歐亞大陸及非洲
+1996,1997,
+2003-
+H5N1
+多到數不清
+雞
+新南威爾士州
+1997
+H7N4
+310,000
+雞
+義大利
+1997
+H5N2
+6,503
+火雞
+義大利
+1999
+H7N1
+13,732,912
+雞
+智利
+2002
+H7N3
+634,000
+雞
+荷蘭
+2003
+H7N7
+超過28,000,000
+雞
+德州
+2004
+H5N2
+6,608
+雞
+加拿大不列顛哥倫比亞省
+2004
+H7N3
+超過17,000,000
+鴕鳥
+南非
+2004
+H5N2
+超過30,000
+雞
+北韓
+2005
+H7N7
+219,000
+火雞
+英國
+2008
+H7N7
+6,528
+參考自: Alexander DJ, Brown IH. History of highly pathogenic avian influenza. Rev. sci. tech. Off. int. Epiz. , 2009, 28 (1), 19-38. 重新製表
+推薦閱讀
+Perroncito E. Epizoozia tifoide nei gallinacei. Annali Accad Agri Torino 1878;21:87–126.
+Stubs EL, Fowl Pest. In: Biester HE, Devries L, editors. Diseases of poultry. 1st ed., Ames, IO: Iowa State College Press; 1943. p. 493–502.
+OIE (1996). Highly pathogenic avian influenza (fowl plague). OIE Manual of Standards for diagnostic tests and vaccines. OIE : Paris pp155-160.
+Stubbs EL. Fowl pest. J Am Vet Med Assoc 1926;21:561–9.
+Wilkinson L, Waterson AP. The development of the virus concept as reﬂected in corpora of studies on individual pathogens. 2. The agent of fowl plague-A model virus? Med Hist 1975;19:52–72.
+Petek M. Current situation in Italy. In: Proceedings of the First International Symposium on Avian Inﬂuenza;1982. p. 31–4.
+Doyle TM. A hitherto unrecorded diseases of fowls due to a ﬁlter-passing virus. J Comp Pathol Theory 1927;40:144–69.
+Burnet FM. Inﬂuenza virus on the developing egg. I. Changes associated with the development of an egg-passage strain of virus. Br J Exp Pathol 1936;17:282–93.
+Alexander DJ. Avian inﬂuenza-Historical aspects. In: Proceedings of the Second International Symposium on Avian Inﬂuenza; 1986. p. 4–13.
+A revised system of nomenclature for inﬂuenza viruses. Bull World Health Org 1971;45:119–24.
+A revision of the system of nomenclature for inﬂuenza viruses: a WHO memorandum. Bull World Health Org 1980;58:585–91.
+原刊載於跨科技對話平台，經作者同意轉載。
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

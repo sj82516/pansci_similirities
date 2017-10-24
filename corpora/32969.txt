@@ -1,0 +1,165 @@
+文／馬萬圳
+前言
+躺在床上看書看累了，你想倒頭就睡，卻懶得下床關燈嗎？或是窩在舒服的沙發上看電視，你想開個電風扇涼快一下，卻連抬個腿都覺得麻煩嗎？如果這時候可以拿起遙控器遙控電器的關開，按一下就可以把電燈關掉，按另一下就可以把電風扇打開，該是多麼美好的一件事！
+這聽起來很困難嗎？不！一點都不！本專題要告訴您如何使用紅外線遙控插座控制電器的開關，並且以 Arduino 自製一個簡單的紅外線遙控器，利用 Arduino 來遙控紅外線插座。
+STEP 1:
+把紅外線插座插到110V插座 (圖1)，先按一下黑色按鈕讓燈亮，再按住按鈕約3秒鐘，等燈亮後手放開，此時燈會閃爍 (圖2)，代表紅外線插座已進入紅外線學習模式：
+ 圖1：將紅外線插座插入110V插座
+ 圖2：按住按鍵3秒鐘後放開，此時燈會閃爍，表示已進入紅外線學習模式
+拿起家裏任何一個遙控器，對著紅外線插座按任一鍵 (圖3)，這個紅外線插座很聰明，當你聽到繼電器發出嗒的一聲時，表示它已經把紅外線學起來了。
+ 圖3：用遙控器對著紅外線插座按任一鍵
+完成設定後，馬上來做個簡單的測試，將電器 (例如電風扇、立燈) 插到紅外線插座上，然後按
+一下遙控器同一顆按鍵，此時電器電源會打開 (圖4)，再按一下，便會關閉電源 (圖5)。
+ 圖4：按一下打開電器，此時燈會亮
+ 圖5：再按一下關閉電器，此時燈會熄滅
+STEP 2:
+下一步是使用 Arduino 讀取遙控器的紅外線訊號。
+首先是連接電路，將 38kHz 紅外線接收器接到 Arduino 上。紅外線接收器的接法如圖6所示，接收器的Vout腳接到pin 2腳位，Vcc接到5V輸出腳位，GND接到 Arduino的GND腳位。
+ 圖6：紅外線接收器線路接法
+接著是安裝 IRRemote Library。請將IRRemote Library下載後（註1），解壓縮放到libraries資料夾底下即可
+，例如 “C:\arduino-1.0.1\libraries”
+將底下的程式輸入Arduino IDE 並上傳至 Arduino 板子上：
+// 示紅外線協定與訊號
+#include // 引用 IRRemote 函式庫
+const int irReceiverPin = 2; // 紅外線接收器 OUTPUT 訊號接在 pin 2
+IRrecv irrecv(irReceiverPin); // 定義 IRrecv 物件來接收紅外線訊號
+decode_results results; // 解碼結果將放在 decode_results 結構的 result 變數裏
+void setup()
+{
+Serial.begin(9600); // 開啟 Serial port, 通訊速率為 9600 bps
+irrecv.enableIRIn(); // 啟動紅外線解碼
+}
+// 顯示紅外線協定種類
+void showIRProtocol(decode_results *results)
+{
+
+Serial.print(“Protocol: “);
+
+// 判斷紅外線協定種類
+
+switch(results->decode_type) {
+
+case NEC:
+
+Serial.print(“NEC”);
+
+break;
+
+case SONY:
+
+Serial.print(“SONY”);
+
+break;
+
+case RC5:
+
+Serial.print(“RC5″);
+
+break;
+
+case RC6:
+
+Serial.print(“RC6″);
+
+break;
+
+default:
+
+Serial.print(“Unknown encoding”);
+
+}
+
+// 把紅外線編碼印到 Serial port
+
+Serial.print(“, irCode: “);
+
+Serial.print(results->value, HEX); // 紅外線編碼
+
+Serial.print(“, bits: “);
+
+Serial.println(results->bits); // 紅外線編碼位元數
+
+}
+
+void loop()
+
+{
+
+if (irrecv.decode(&results)) { // 解碼成功，收到一組紅外線訊號
+
+showIRProtocol(&results); // 顯示紅外線協定種類
+
+irrecv.resume(); // 繼續收下一組紅外線訊號
+
+}
+
+}
+程式上傳完畢後，打開 Serial Monitor，接著拿起遙控器，對著紅外線接收器按下按鍵（要用跟紅外線插座一樣的同一個按鍵），這時候Serial Monitor會顯示紅外線訊號的編碼，如圖7所示：
+ 圖7：遙控器紅外線訊號
+將解到的Protocol種類與編碼記錄下來（本例為 NEC協定，編碼為4CB3817E），待會我們會用到。
+STEP 3:
+下一步我們將使用 Arduino 來發射紅外線，以遙控紅外線插座。
+首先一樣是先連接電路，我們要把紅外線發射器和一顆按鈕接到Arduino。紅外線發射器的接法如圖8所示，發射器的長腳要接到 pin 3 腳位，並且串接一顆 100 ohm 電阻，短腳要接到 GND腳位。至於按鈕則是一支腳接到 5V輸出腳位，另一支腳接到 pin 4 腳位，同時接一個 10K 電阻連接到 GND腳位。
+將底下的程式輸入Arduino IDE 並上傳至 Arduino 板子上：
+/*
+
+* 發射紅外線訊號
+
+* 注意! 紅外線發射器(IR LED)必須接到 pin 3, 不能接其它腳位
+
+*/
+
+#include// 引用 IRRemote 函式庫
+
+const int buttonPin = 4; // 按鍵(pushbutton)接在 pin 4
+
+int buttonState = 0; // 按鍵狀態
+
+IRsend irsend; // 定義 IRsend 物件來發射紅外線訊號
+
+void setup()
+
+{
+
+pinMode(buttonPin, INPUT); // 把 buttonPin 設置成 INPUT
+
+}
+
+void loop()
+
+{
+
+// 讀取按鍵狀態
+
+buttonState = digitalRead(buttonPin);
+
+// 檢查按鍵是否被按下(pressed)
+
+// 有的話 buttonState 會是 HIGH
+
+if (buttonState == HIGH) {
+
+// 發射紅外線訊號
+
+irsend.sendNEC(0x4CB3817E, 32); // 記得換成你遙控器的紅外線編碼
+
+}
+
+}
+本例所用的是講NEC協定的遙控器，所以程式呼叫sendNEC() 發射紅外線訊號，如果你在 STEP2解到是其它紅外線協定，必須改呼叫其它函式，例如sendSony(), sendRC5(), sendRC6(), sendSharp()等。另外，記得將程式裏的紅外線編碼換成你遙控器的編碼。
+大功告成了，此時按下按鈕後，Arduino就會遙控紅外線遙控插座，你便可以打開或關閉電器的電源囉。
+假如你有Ethernet Shield、Wi-Fi Shield 或者是藍芽擴充模組，你只要利用 Arduino 和紅外線遙控插座，然後再寫個手機App，便可以利用手機來遙控家電的開關了。這部份我想就留給你當作功課了！
+＊註1: IRRemote Library 可由此連結下載。
+材料表：
+1) 一張 Arduino 板子，一條 USB 傳輸線，以及 Arduino IDE 軟體開發環境:
+2) 一顆 38 kHz 的紅外線接收器 (Infrared Receiver)，如 TSOP2438, TSOP4438, PNA4602, FM-8038TM2-5DN。
+▲ 紅外線接收器(Infrared Receiver)
+3) 一顆發射波長為 940nm (nanometer, 奈米) 的紅外線發射器
+4) 一個紅外線遙控插座 (可在露天或淘寶買到)
+*馬萬圳先生（Cooper Maa），國內資深Arduino玩家。（部落格）
+文章原文刊載於《MAKE》國際中文版
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<
+馥林文化是由泰電電業股份有限公司於2002年成立的出版部門，有鑒於21世紀將是數位、科技、人文融合互動的世代，馥林亦出版科技機械類雜誌及相關書籍。馥林文化出版書籍http://www.fullon.com.tw/

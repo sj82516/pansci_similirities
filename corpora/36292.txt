@@ -1,0 +1,32 @@
+「血是非常不平凡的液體」－1901年第一屆諾貝爾生理學醫學奬得主Emil von Behring [1]
+von Behring, Emil, and Kitasato, Shibasaburo. (1890) “The mechanism of immunity in animals to diphtheria and tetanus.“（動物對白喉與破傷風的免疫機制）
+文 / Hemmings Wu（比利時魯汶大學博士生，醫學背景，專攻功能神經外科／神經科學）
+第一屆諾貝爾生理學／醫學獎，於1901年頒給了德國生理學家Emil von Behring。von Behring和Kitasato兩位科學家基於在白喉與破傷風免疫機制上的研究成果，在1890年共同發表醫學論文，為日後傳染病疫苗及血清療法奠定了非常重要的基礎。
+他們正式發表研究成果以前，醫學界在治療白喉與破傷風病人時幾乎束手無策。在面對痛苦且高流行性的疾病，醫生們除了消極地緩解症狀外（比如在患者無法呼吸時進行氣管插管），無從直接針對病原體進行治療。
+當時醫學界對免疫機制的主流觀點還停留在「細胞免疫」，即「免疫機制是通過血細胞（白血球）的吞噬作用完成」，尚未意識到除了白血球以外，血清也是免疫系統的重要一環。
+von Behring and Kitasato在1890年於《Deutsche Medizinische Wochenschrift》（German Medical Weekly，德國醫學周刊）共同發表的一篇文章裡，在開頭就清楚總結了他們的發現：
+“In both infectious diseases, we have been able to cure infected animals, as well as to pretreat healthy animals so that later they will not succumb to diphtheria or tetanus.”
+“The immunity of rabbits and mice, which have been immunized against tetanus, depends on the ability of the cell-free bllod fluid to render harmless the toxic substance which the tetanus bacillus produces.”
+他們在實驗中發現他們能夠治癒感染了白喉或破傷風的動物，同時也可以預防健康的動物感染這兩種疾病。 此外，他們還針對這背後的機理進一步做出了重要推論：“兔和小鼠對破傷風的免疫能力來自於無血細胞的血清，因為血清具有破傷風毒素中和作用。”
+他們的實驗步驟如下：
+首先讓兔對破傷風獲得免疫，然後將具有免疫力的兔的血（免疫兔血）在凝固以前就注入到小鼠的腹腔中。
+經過24小時後，讓這些實驗組小鼠與對照組小鼠（注射未獲得破傷風免疫兔血之小鼠）感染破傷風。經過36小時，對照組小鼠死亡，而實驗組小鼠依然健康。
+若在免疫兔血凝固之後，單獨抽出血清，將血清注入另一組小鼠腹腔內，該組小鼠在感染破傷風後仍能健康存活。而在先感染破傷風的小鼠注射免疫兔血血清的實驗裡，實驗者進一步證明血清除了預防作用外，同時具有治療作用。
+若將免疫兔血血清與破傷風毒素混合後再注入小鼠腹腔內，小鼠不會出現破傷風症狀。
+最後，實驗還發現：接受免疫兔血的小鼠對破傷風產生的免疫力是永久性的。
+根據以上實驗結果，von Behring和Kitasato做出以下結論：
+「對破傷風有免疫力的兔血可以中和破傷風毒素；體外血或血清都保有這項中和特性；這項特性非常穩定，以至於將具有免疫力之全血或血清注入到其他動物體內也有同樣效果，進一步證明可以通過輸血或者血清來治療疾病；對破傷風沒有免疫力的動物的血不具備中和破傷風毒素的能力，而且即使在動物死後破傷風毒素仍會存在於其血液和體液內。」
+平心而論，如果以現代科學研究技術來回顧他們在當年的工作，會發現其實這只是再簡單不過的實驗組與對照組的研究。但這卻是在一百二十多年前就已經發 表出來的文章，是人們還在摸索真正科學精神的過程。那個年代沒有電腦、沒有網路、沒有手機、沒有電話，就連距離愛迪生改良的電燈泡問世也才不過是十年左右 時間。那個時代的科學家資源非常有限，要查篇參考文獻都是異常艱鉅的事，但科學進步的腳步並沒有逗留或停滯。von Behring的研究證明了血清療法的療效，同時也對日後免疫學的理論發展奠定下重要的基礎。
+最後，von Behring和Kitasato在文章結尾引用德國劇作家歌德《浮士德》裡的一句名言做為結束：
+「血是非常不平凡的液體。」
+“Blut ist ein ganz besonderer Saft” (Blood is a very unusual fluid）
+這是當浮士德在與魔鬼在契約書上用他的血簽下名時，魔鬼對當時不以為意的浮士德說的一句話。不禁令人高山仰止 地會心一笑。
+為了知識的欲望而出賣靈魂與魔鬼簽約的浮士德。Julius Nisle, 1840
+以下網址可以鏈接到von Behring和Kitasato在1890年發表於Deutsche Medizinische Wochenschrift的英文翻譯：
+The mechanism of immunity in animals to diphtheria and tetanus
+Behring, E. and Kitasato, S. 1890. Ueber das Zustandekommen der Diphtherie-Immunitat und der Tetanus-Immunitat bei thieren. Deutsche medizinsche Wochenschrift 16:1113-1114 In Milestones in Microbiology: 1556 to 1940, translated and edited by Thomas D. Brock, ASM Press. 1998, p138
+原刊載於 Journal of Nobel Prize Winners
+也可以上科技大觀園搜尋「疫苗」
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）

@@ -1,0 +1,20 @@
+文 / Hsiao-Chi
+每逢冬末春初為台灣沙塵暴(dust storm)的盛行季節，其主要的原因，為在遠西的中國西北沙漠地區的特殊地形與氣候綜合條件所造成。流行病學研究指出，暴露於亞洲沙塵暴能導致心肺疾病的發生率或住院率增加(Chan et al. 2008)。當沙塵暴發生時，大粒徑的微粒會因為沉降作用而落到地面。另一方面，懸浮微粒(suspended particulate matter)能伴隨著當時的氣候條件飄揚到台灣。在微粒的飄送過程中，這些懸浮物能與當地空氣污染物產生交互作用，導致人類暴露後所產生嚴重的不良健康效應。
+遠在另一端的歐洲，也遭受到類似的自然威脅，那就是火山灰。當火山爆發時，其溢散到大氣的懸浮微粒主要成分為石英(quartz)、矽(silica)與鋁(aluminium)等。然而，因研究上的證據有限，目前尚無足夠的數據可以證實火山灰對於人類暴露所造成可能的健康危害。因此，英國健保局Health Protection Agency(HPA)建議利用過去的流行病學研究與現有的空氣標準(air quality standard)為基礎，建議民眾盡量在火山灰抵達時，到室內環境減低火山灰的暴露(UK HPA, 2010)。但是，基於火山灰的化學成分與其特殊條件(例如：噴射高度)，許多學者對於火山灰與人類的健康危害保持著質疑的態度。
+(Eyjafjallajokull)火山為例，此火山噴射的力量能將其中的微粒噴射到35,000英尺(ft)的高度(Figure 1)，間接地稀釋了懸浮微粒在大氣中的濃度。此外，火山灰的粒徑大小主要為30-40微米(μm)，遠遠大於燃燒源所產生的細粒徑微粒(<2.5μm)。WHO綜合在2010年的冰島(Iceland)火山爆發後的流行病學研究，指出這些火山灰沒有造成顯著的健康危害。
+反觀在毒理學研究，過度吸入這些懸浮金屬，例如石英，可能會導致肺部氧化壓力(oxidative stress)增加以及發炎反應(inflammation)的產生(Roursgaard et al. 2011; van Berlo et al. 2010)。雖然歐洲的火山灰可能會造成健康上的危害，但與台灣沙塵暴的危害程度相比，只是小巫見大巫！
+延伸閱讀：
+行政院環保署沙塵網站
+WHO/Europe
+WHO:Air Quality Guideline
+Reference：
+Chan, CC, Chuang, KJ, Chen, WJ, Chang, WT, Lee, CT, Peng, CM, 2008. Increasing cardiopulmonary emergency visits by long-range transported Asian dust storms in Taiwan. Environ Res. 106, 393-400.
+Roursgaard, M, Jensen, KA, Poulsen, SS, Jensen, NE, Poulsen, LK, Hammer, M, Nielsen, GD, Larsen, ST, 2011. Acute and subchronic airway inflammation after intratracheal instillation of quartz and titanium dioxide agglomerates in mice. ScientificWorldJournal. 11, 801-825.
+UK HPA. Paper on the possible effects on health of exposure to volcanic ash and associated gases. Available: http://www.hpa.org.uk/web/HPAwebFile/HPAweb_C/1274089597960.
+van Berlo, D, Wessels, A, Boots, AW, Wilhelmi, V, Scherbart, AM, Gerloff, K, van Schooten, FJ, Albrecht, C, Schins, RP, 2010. Neutrophil-derived ROS contribute to oxidative DNA damage induction by quartz particles. Free Radic Biol Med. 49, 1685-1693.
+科技大觀園延伸閱讀：
+也可以上科技大觀園搜尋「火山」
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

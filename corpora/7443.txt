@@ -1,0 +1,16 @@
+現代稻米(Oryza sativa)的祖先是Oryza rufipogon。
+1960年代綠色革命時，育種學家從現代稻米中選出了具有semi-dwarf1(sd1)突變的品種(1)。sd1基因突變讓稻米的莖不要長得那麼長，於是稻子可以有更多的能量用在結果上，同時也較不容易傾倒。
+但是亞洲國家種稻的歷史可以回溯到紀元前9000年(2)，這就讓日本名古屋大學的研究團隊想到：難道老祖宗們在選種的時候，不會選到sd1突變嗎？
+由於sd1基因是吉貝素(gibberellin)合成途徑中的一個酵素(GA20 oxidase)(3, 4)，於是名古屋大學的研究團隊便將Oryza sativa ssp. japonica （以下簡稱japonica） 以及Oryze sativa ssp. indica（以下簡稱indica）的sd1基因選殖並測量表現出來的酵素活性。
+結果他們發現，存在於japonica以及indica的sd1基因，他們的酵素活性都比Oryza rufipogen中的sd1基因低，而且不同品系的japonica及indica中都可以看到，sd1基因產生的酵素活性越低，該品系的稻米莖的長度就愈短。
+為了確定sd1突變是刻意的選擇，名古屋大學的研究團隊接著看sd1基因旁邊的基因的變異性(variability)。特定的基因如果在天擇或人擇的環境下如有承受到了選擇的壓力(selective pressure)，這個基因附近的基因的變異性會因為這樣也跟著降低。研究團隊發現，在japonica中，sd1基因周圍的基因的變異率，跟他們的老祖宗(Oryza rufipogen)來比較，變異率下降到2%；而indica則較高，但也下降到75%。
+所以別以為綠色革命的榮耀是現代人所獨有，其實在一萬一千年前，我們的老祖宗就已經進行過一次的綠色革命了。
+參考資料：
+1. ScienceNow. 2011/6/7. Ancient farmers started the first ‘Green Revolution’.
+2. Jared Diamond. 1999. Guns, Germs, and Steel.
+3. Asano K., Yamasaki M., Takuno S., Miura K., Katagiri S., Ito T., Doi K., Wu J., ebana K., Matsumoto T., Innan H., Kitano H., Ashikari M., and Matsuoka M. 2011. Artificial selection for a green revolution gene during japonica rice domestication. Proc. Natl. Acad. Sci. USA. 108(27): 11034-9
+4. GA20 oxidase會將不具有活性的GA前驅物轉變為有活性的GA。(Taiz and Zeiger, Plant Physiology, 4th ed.)
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

@@ -1,0 +1,10 @@
+是個用細菌進行生物防治的經典案例。
+Bacillus thuringiensis 在形成孢子時會產生伴胞晶體（parasporal body）。把這樣的孢子灑在田間，讓害蟲們吃到，伴胞晶體裡的毒素就會跑出來殺死害蟲。由於B. thuringiensis本來就是環境裡的細菌，這樣防治法就不用擔心留下有毒的化學物了。
+然而這種方法並不如想像中那麼有效。在田間施用時，鱗翅目昆蟲有的會被消滅，有的好像不太受影響。詳細機制到現在都還不能完全弄清楚。一群美國威斯康辛大學的研究人員在先前研究中發現 B. thuringiensis 的殺菌能力竟然與昆蟲幼蟲腸子裡的常駐細菌有關。在最近發表的這篇研究中更發現如果用抗生素除去腸內細菌，會讓昆蟲對抗時 B. thuringiensis 的存活率增加。而腸道無菌的昆蟲在碰上 B. thuringiensis 時如果同時給予一種腸桿菌屬（Enterobacter）的常駐菌，會增加昆蟲幼蟲的死亡率。看起來 B. thuringiensis 好像會造成某些影響，讓原本相安無事的常駐菌搖身一變成為萬惡毒菌，造成昆蟲腸穿孔而死亡。可是到底兩種細菌在黏黏稠稠的腸子裡說了些什麼煽動人心的東西呢？這就有待未來的研究來發現了。
+研究原文：
+Nichole A. Broderick , Courtney J. Robinson , Matthew D. McMahon , Jonathan Holt , Jo Handelsman and Kenneth F. Raffa. Contributions of gut bacteria to Bacillus thuringiensis-induced mortality vary across a range of Lepidoptera. BMC Biology 2009,7:11
+原刊載於 30.6kj
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

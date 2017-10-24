@@ -1,0 +1,46 @@
+文 / 今天天氣真好(風濕免疫科醫師)
+這幾天有個新聞，說是有名人為了防癌，因此出錢保存自己的T細胞以供日後得了癌症時使用(1)。我想利用這個機會很簡單的跟大家介紹一下目前比較可行的癌症免疫療法(大類)跟他們的限制（此處不討論針對癌症本身直接治療的免疫療法）。
+首先，大家一定要記得幾件事：第一：癌症不是單一疾病，不同的癌症有截然不同的治療方法。即使是同一個癌症 (例如黑色素瘤)，他們的細胞組成也是非均質的(heterogeneous)。意思是說，甲療法對部份癌細胞有效，但可能對其他部份癌細胞沒效。第二：癌症之所以變成癌，除了不受限制的複製之外，有一個很大的原因就是他們躲掉了人體免疫系統的追殺。所以要這些免疫系統再動起來去殺一個他們本來不殺的細胞，一方面很難，一方面很可能要付出其他的代價。
+相關的歷史常識
+早在在1891年，外科醫師Coley發現把死掉的鏈球菌萃取物在手術後使用，可以延長部份病患的壽命，於是這個叫做Coley’s toxin(2)的東西大行其道，甚至寫在教科書之中成為標準治療方法。一直到抗生素廣為使用之後，大家認為Coley’s toxin之所以能延長部份病患的壽命是因為可以提高免疫力以減少術後感染，但既然已經有抗生素可用了，還用Coley’s toxin做什麼呢? 於是這東西就慢慢被遺忘在歷史之中。
+一直到二十世紀末的Dr. Rosenberg (也是個外科醫師)，他有個癌症病人，儘管他再怎麼苦口婆心勸他開刀，這位病人只想禱告，好死不死腫瘤竟然在沒有治療的情形下消了！！病人回診是來告訴他神蹟，不過Rosenberg想的是這個病人的腫瘤沒有治療會消，那麼很明顯是免疫系統幹的好事 (幸好他沒歸功於神，我們才有現在的免疫療法)……經過了十幾年的努力，Rosenberg在melanoma上取得重大的突破，靠的是去年獲得諾貝爾獎前過世的Ralph M. Steinman的發現：樹突細胞 (Dendritic cell, DC)(3)。(註1：他應該是死後獲頒諾貝爾獎的第二人，在免疫學界中悼文比當年Janeway過世時還多。)
+目前免疫療法較可行的一些方面
+偏Adaptive (後天免疫)方面
+利用Dendritic cell
+DC是後天免疫最重要的一個細胞，說他最重要，是因為他決定了要對什麼抗原起免疫反應，以及對什麼抗原不起反應。DC會把目標對象 (在本文中指的就是癌細胞身上的一些蛋白質)吞掉後再分解成小的胜肽，表現在MHC II之上然後跑到淋巴結呈現給沒接觸過抗原的T細胞。然後再活化他們。被活化的T cell此後就認定該DC所表現出的抗原是「壞人」，然後再進行後續的攻擊。
+DC免疫療法的主要概念是認為癌細胞之所以逃脫，乃因DC對癌細胞的認識不夠「深入」，以致無法活化T cell。於是乎醫師們會把病人自己的DC拿出來(這年頭拿plasmacytoid DC較多，這是題外話)，跟病人自己的癌細胞放在一起養，然後再種回病人病人自己身上，期待這些DC們好好幹活，把癌細胞幹掉。
+這個部份是Rosenberg最早做，在melanoma(黑色素瘤)上最成功(但病人存活率也沒有很好就是了)。缺點之一是不少療法成功的病人會誘發Vitiligo (白斑症)，合理的推測是免疫系統把帶著黑色素的細胞都當壞人了。
+Ralph M. Steinman身為DC的發現者，又不幸得了胰臟癌，於是他拿自己做DC的人體實驗 (人家是有醫師執照的喔!)，很不幸還是失敗，沒有能親睹自己得獎。
+利用effector T cell
+T細胞分成很多次族群，其中一個族群會要靠DC活化然後執行殺敵任務的，我們叫他effector T cells. 當然這一群除了CD8之外也還分Th1, Th2, Th17甚至Th22等。但是用來做癌症免疫療法的，主要是tumor infiltrating lymphocytes (TIL)，也就是圍在腫瘤旁邊的T細胞們。理由是這群 T細胞既然圍在腫瘤旁邊，想當然耳就是要圍攻腫瘤的，但是不知道什麼原因，或者兵源不足，或者敵人太強，所以這群細胞沒辦法達到殺死腫瘤的目的。於是乎把這群細胞拿出來培養，用IL-2或anti-CD3等(都是用來刺激Th1及CD8+ T細胞「繁殖」的東西)加強一下，然後再種回病人身上。目前這一類療法做最多的還是melanoma(4)，原因是要拿到腫瘤旁邊的T cell大概就屬皮膚癌最方便。
+利用病毒改變T cell receptor (TCR，T細胞受器)，使T cell對癌症更敏感
+如果你不喜歡基因轉殖作物，我想你也不會太喜歡這個點子！簡單的說，就是認定原本身上T cell對癌細胞效果不好，是因為沒有能針對癌細胞抗原的TCR。在無法標定癌細胞抗原的情形下，即使DC能順利抓到癌細胞，也無法找到能針對癌細胞抗原的T cell活化。想法十分有趣，也的確有人付諸實行。很不幸的，至目前為止全世界應該只有一例人類試驗是成功的(5)。
+破壞Tolerance
+剛剛上面第二點提到圍在腫瘤旁邊的T細胞們無法成功殺死腫瘤。事實上，除了這些effector T cell之外，另外有一群T細胞是專門用來抑制發炎的，我們叫他們regulatory T cell (調節型T 細胞)或縮寫為Treg。在感染時若是細菌已經死光了，發炎還持續下去，那麼對正常組織的傷害是很大的，此時就是這群細胞出面阻止發炎的時候，這種現象叫tolerance。但是在有癌症時，我們希望免疫系統在癌症附近能造成發炎，但這種發炎會被這一群Treg所阻止。特別的是，這群Treg跟其他T helper一樣是有專一性的。舉個從未發生在台灣(?)的類比： 酒店(癌細胞)不想被警察(effector T cell)抄了，所以就賄賂警察的長官(Treg)，使警察無法對癌細胞下手。但是警察的長官並未收到地下錢莊(其他細菌或其他種類癌細胞)的賄款，所以警察抓他們仍然很用力，只有碰到酒店才縮回去…
+這群保護癌細胞的Treg，大多需要一些特殊分子來發揮功能，例如CTLA-4。於是就有這樣的藥物，藉由攻擊CTLA-4造成Treg死亡以取得療效。Ipilimumab目前在FDA已取得核准用來治療melanoma(6)。不過個人悲觀的想法是：這個藥大概不會進台灣給健保局殺價才對…
+利用Innate或是其他方式加強免疫力
+利用自體免疫細胞加強
+觀念很簡單，免疫系統用以識別癌症的細胞有一種叫做NK T cell (自然殺手T細胞)，你若是得到癌症肯定是免疫力不好，所以先一次次幫你收集血中的NK T cell(以及Cytotoxic T cell)，在體外expansion後再一次打回病人身上。使用方式是在化療或放射治療之後，再把這些細胞打入。最早也是Rosenberg所開發，可以說是免疫療法的proto-type(這句話純個人心得)。據說 (意思是此事還有得觀察)這種療法在胰臟癌及卵巢癌的輔助有部份效果(7)。
+利用各式各樣的DAMP以加強免疫系統的發炎
+Danger associated molecular pattern (DAMP)是個很有趣的觀念，是由Matzinger所提出來並且得到證實的。簡單的說，就是利用各種外來物如細菌、寄生蟲等的產物或身上的抗原，製造「敵人來犯」的假象，使本來沒認真做事的免疫系統認真一點，順便把癌症給清掉。上面所提Coley’s toxin也是屬於這方面。免疫學經過一百年，又有點走回這條路…當然用法有比較「精緻」一點，但是人體的成效仍有待觀察(8) (讀者如果有興趣倒是可以查查這一篇)。
+疫苗
+預防型疫苗
+對疾病的治療有一個部份我們稱為primary prevention，也就是在還沒生病前就先預防，以免之後得病。由於我們知道B型肝炎與肝癌有關，因此打B型肝炎預防針可以使我們避免得到肝炎，同時降低得肝癌的機會。最近政府比較有在推廣的，就是子宮頸癌疫苗，事實上就是人類乳突狀病毒(HPV)疫苗。藉由避免HPV的感染而降低子宮頸癌的機會。
+治療型疫苗
+前面講的是還沒得癌症就直接預防，那已經得癌症的人怎麼辦？有一個FDA在2010年核准的方法，可以用在前列腺癌，叫做Sipuleucel-T(9)。事實上跟前面所講的DC有一點像，就是把病人身上的DC拿出來，但是不是跟病人自己的癌細胞做培養，而是跟廠商所提供的前列腺抗原做培養，培養過程中加了些白血球威而剛（誤），之後再把這些訓練好的DC種回病人身上。這種方式可以增加末期前列腺癌的病患的存活時間。
+事實上，隨著免疫學的進步，方式是愈來愈多。但要注意的是，理論上可行不等於實際上用在人體一樣可行。這些療法在台灣(如果有的話)都屬試驗階段，請一定要跟主治醫師確認。
+Reference：
+1. 小金徐乃麟 買T細胞防癌 – Yahoo!奇摩新聞. .
+2. Coley’s toxins – Wikipedia, the free encyclopedia. .
+3. Rosenberg, S. A. 1984. Adoptive immunotherapy of cancer: accomplishments and prospects. Cancer Treat Rep 68: 233–255.
+4. Pilon-Thomas, S., L. Kuhn, S. Ellwanger, W. Janssen, E. Royster, S. Marzban, R. Kudchadkar, J. Zager, G. Gibney, V. K. Sondak, J. Weber, J. J. Mulé, and A. A. Sarnaik. 2012. Efficacy of adoptive cell transfer of tumor-infiltrating lymphocytes after lymphopenia induction for metastatic melanoma. J. Immunother. 35: 615–620.
+5. Morgan, R. A., M. E. Dudley, J. R. Wunderlich, M. S. Hughes, J. C. Yang, R. M. Sherry, R. E. Royal, S. L. Topalian, U. S. Kammula, N. P. Restifo, Z. Zheng, A. Nahvi, C. R. de Vries, L. J. Rogers-Freezer, S. A. Mavroukakis, and S. A. Rosenberg. 2006. Cancer regression in patients after transfer of genetically engineered lymphocytes. Science 314: 126–129.
+6. 台灣癌症防治網 | 抗癌新藥－Ipilimumab. .
+7. Manjunath, S. R., G. Ramanan, V. D. Dedeepiya, H. Terunuma, X. Deng, S. Baskar, R. Senthilkumar, P. Thamaraikannan, T. Srinivasan, S. Preethy, and S. J. K. Abraham. 2012. Autologous immune enhancement therapy in recurrent ovarian cancer with metastases: a case report. Case Rep Oncol 5: 114–118.
+8. Krysko, D. V., A. D. Garg, A. Kaczmarek, O. Krysko, P. Agostinis, and P. Vandenabeele. 2012. Immunogenic cell death and DAMPs in cancer therapy. Nature Reviews Cancer 12: 860–875.
+9. Approved Products > PROVENGE® (sipuleucel-T). .
+也可以上科技大觀園搜尋「疫苗」
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
+>>早鳥優惠只到 10/27<<

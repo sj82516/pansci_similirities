@@ -1,0 +1,13 @@
+日本的RIKEN腦科學研究所，最近發明了一種被稱為"Scale"的水溶液(1)；當他們把使用螢光蛋白標定後的神經組織泡在這溶液中，原本灰白色的組織會被轉為透明，但是標定的蛋白質的會被保存下來(2)，於是成了下圖的模樣：
+由於腦組織經過這樣處理後，研究者可以把細微的結構看得非常清楚，包含哪個神經元跟哪（些）神經元有接觸，因此RIKEN研究所的宮脅淳教授對於他們的發明非常的興奮，希望能藉由這個溶液一步步地解開大腦的奧秘。
+當然，以人腦的複雜度來說，如果一開始就以人腦來作為研究的材料，一方面材料不易取得，另一方面研究者可能也會馬上陷入五里霧中；因此他們打算要由小鼠開始，先建立起小鼠的腦神經元連結地圖（他們稱為"connectome"），接著再建立不同年齡（也就是不同的發育階段）的小鼠的腦神經元連結地圖；然後才會開始使用人腦。
+在太平洋的另一端的美國，在2009年建立了由16個單位共同合作的’Human Connectome Project‘，計畫透過以MRI，MEG（Magnetoencephalography，腦磁圖，利用偵測大腦產生的電流所造成的磁場來記錄大腦活動的儀器(3)）與EEG（Electroencephalography，腦電圖，記錄大腦產生的電波的儀器(4)）等儀器掃瞄志願者的大腦，嘗試著建立起大腦中的腦神經元連結地圖；其中一位在哈佛大學的Lichtman教授對於RIKEN研究團隊的發明大感振奮。他認為這個溶液可以幫助研究者了解更多大腦的奧秘。
+有意思的是，這個溶液其實一點也不貴。根據RIKEN研究團隊表示，Scale的成分就是尿素、甘油跟介面活性劑而已。但這個溶液只能使用在死的組織上，活的組織無法使用這個溶液；研究團隊盼望有一天能有個方法讓他們可以直接觀察活的組織，不過以目前來看，Scale已經是目前的首選了。
+參考資料：
+1. NY Times. Chemical cocktail turn brain’s gray matter transparent.
+2. H. Hama, H. Kurokawa, H. Kawano, R. Ando, T. Shimogori, H. Noda, K. Fukami, A. Sakaue-Sawano & A. Miyawaki. 2011. Scale: a chemical approach for fluorescenceimaging and reconstruction of transparent mouse brain. Nature Neuroscience doi:10.1038/nn.2928
+3. Wikipedia. 2011/10/10. Magnetoencephalography.
+4. Wikipedia. 2011/10/12. Electroencephalography.
+2017 年泛知識節 早腦人必搶的早鳥優惠開跑啦！
+「3 大領域 x 150 場分享、體驗、工作坊 x 200 個意見領袖 x 1000 個參與者」2017 年兩岸三地最大知識饗宴 – “泛・知識節" 早鳥票開賣啦！
+由泛科知識旗下 PanSci 科學新聞網、 娛樂重擊 Punchline、PanX 泛科技新聞網聯合超強協力夥伴，邀你在兩天內火拼知識，替自己的大腦做個版本升級。11月 11&12 日到泛．知識節直搗知識核心，挑戰與創造未知 ∞ 種可能！手腳迅速，眼光精準的早腦人如你，還不速速搶下早鳥優惠及獨家周邊商品！（購票還贈 TAAZE 讀冊生活折價卷）
